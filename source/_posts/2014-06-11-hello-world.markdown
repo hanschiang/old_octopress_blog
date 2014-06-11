@@ -6,7 +6,6 @@ comments: true
 categories: 
 ---
 
-# A blog by octopress
-
-- Hello World.
-
+- It's good to use markdown again. Athough there is a brilliant service logdown also provide the enviorment. I like to setup a blog by octopress anyway.
+- I think I would put some notes here.
+- There is so much to learn.
