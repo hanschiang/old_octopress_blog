@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
+url: http://evilchiang.herokuapp.com/
 title: dhancer
 subtitle: A blogging framework for hackers.
 author: Your Name
