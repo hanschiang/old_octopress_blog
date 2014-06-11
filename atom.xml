@@ -4,7 +4,7 @@
   <title><![CDATA[dhancers]]></title>
   <link href="http://hanscholem.github.io/atom.xml" rel="self"/>
   <link href="http://hanscholem.github.io/"/>
-  <updated>2014-06-11T21:12:44+08:00</updated>
+  <updated>2014-06-11T21:43:59+08:00</updated>
   <id>http://hanscholem.github.io/</id>
   <author>
     <name><![CDATA[Hans Chiang]]></name>
@@ -12,5 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World!]]></title>
+    <link href="http://hanscholem.github.io/blog/2014/06/11/hello-world/"/>
+    <updated>2014-06-11T21:30:29+08:00</updated>
+    <id>http://hanscholem.github.io/blog/2014/06/11/hello-world</id>
+    <content type="html"><![CDATA[<ul>
+<li>It&rsquo;s good to use markdown again. Athough there is a brilliant service logdown also provide the enviorment. I like to setup a blog by octopress anyway.</li>
+<li>I think I would put some notes here.</li>
+<li>There is so much to learn.</li>
+</ul>
+
+]]></content>
+  </entry>
   
 </feed>
