@@ -4,7 +4,7 @@
   <title><![CDATA[dhancers]]></title>
   <link href="http://hanscholem.github.io/atom.xml" rel="self"/>
   <link href="http://hanscholem.github.io/"/>
-  <updated>2014-08-28T22:55:15+08:00</updated>
+  <updated>2014-08-28T22:56:00+08:00</updated>
   <id>http://hanscholem.github.io/</id>
   <author>
     <name><![CDATA[Hans Chiang]]></name>
@@ -18,7 +18,7 @@
     <link href="http://hanscholem.github.io/blog/2014/08/28/day-3/"/>
     <updated>2014-08-28T22:36:08+08:00</updated>
     <id>http://hanscholem.github.io/blog/2014/08/28/day-3</id>
-    <content type="html"><![CDATA[<h4>Memo</h4>
+    <content type="html"><![CDATA[<h3>Memo</h3>
 
 <ul>
 <li>Octopress setup on my Ubuntu machine, done.</li>
@@ -27,7 +27,7 @@
 </ul>
 
 
-<h4>To Do</h4>
+<h3>To Do</h3>
 
 <ul>
 <li>Post another blog from MAC without destroying any previous post. (Git newbie&hellip;)</li>
