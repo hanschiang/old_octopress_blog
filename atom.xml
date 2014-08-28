@@ -4,7 +4,7 @@
   <title><![CDATA[dhancers]]></title>
   <link href="http://hanscholem.github.io/atom.xml" rel="self"/>
   <link href="http://hanscholem.github.io/"/>
-  <updated>2014-08-28T22:56:00+08:00</updated>
+  <updated>2014-08-28T23:56:33+08:00</updated>
   <id>http://hanscholem.github.io/</id>
   <author>
     <name><![CDATA[Hans Chiang]]></name>
@@ -12,6 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[20140829]]></title>
+    <link href="http://hanscholem.github.io/blog/2014/08/28/20140829/"/>
+    <updated>2014-08-28T23:54:10+08:00</updated>
+    <id>http://hanscholem.github.io/blog/2014/08/28/20140829</id>
+    <content type="html"><![CDATA[<h2>Memo</h2>
+
+<ul>
+<li>Still trying to figure out how to use this blog properly.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Day 3]]></title>
