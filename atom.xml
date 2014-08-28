@@ -4,7 +4,7 @@
   <title><![CDATA[dhancers]]></title>
   <link href="http://hanscholem.github.io/atom.xml" rel="self"/>
   <link href="http://hanscholem.github.io/"/>
-  <updated>2014-08-28T01:14:51+08:00</updated>
+  <updated>2014-06-12T00:32:45+08:00</updated>
   <id>http://hanscholem.github.io/</id>
   <author>
     <name><![CDATA[Hans Chiang]]></name>
@@ -12,19 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[To Do List]]></title>
-    <link href="http://hanscholem.github.io/blog/2014/08/28/to-do-list/"/>
-    <updated>2014-08-28T01:05:38+08:00</updated>
-    <id>http://hanscholem.github.io/blog/2014/08/28/to-do-list</id>
-    <content type="html"><![CDATA[<ul>
-<li>Read &ldquo;Learn Python The Hard Way&rdquo;.</li>
-<li>Decide A5 or A6 paperback notebook.</li>
-</ul>
-
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Test]]></title>
