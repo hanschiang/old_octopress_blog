@@ -4,7 +4,7 @@
   <title><![CDATA[dhancers]]></title>
   <link href="http://hanscholem.github.io/atom.xml" rel="self"/>
   <link href="http://hanscholem.github.io/"/>
-  <updated>2014-08-29T19:19:54+08:00</updated>
+  <updated>2014-08-29T19:30:39+08:00</updated>
   <id>http://hanscholem.github.io/</id>
   <author>
     <name><![CDATA[Hans Chiang]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[20140829 Day 4]]></title>
+    <link href="http://hanscholem.github.io/blog/2014/08/29/20140829-day-4/"/>
+    <updated>2014-08-29T19:25:45+08:00</updated>
+    <id>http://hanscholem.github.io/blog/2014/08/29/20140829-day-4</id>
+    <content type="html"><![CDATA[<h3>Memo</h3>
+
+<ul>
+<li>Tried shell script to make deploy post and pull data simpler.</li>
+<li>Weekend.</li>
+<li>I don&rsquo;t understand why there are scratches on the surface of my Macbook Air.</li>
+<li>Rubbish.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[MAC Script Test]]></title>
