@@ -18,3 +18,4 @@ categories:
 
 - 天空觀察站，數位單眼相機搭配能夠定位的軟體和調整攝影方向角度的硬體。
 ![天空觀察站示意圖](https://farm4.staticflickr.com/3844/14885904348_cf250bb75b_z.jpg)
+- 圖片選用 flickr 的 Medium 640 x 478 的大小好像還蠻適合。
