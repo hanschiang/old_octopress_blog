@@ -4,7 +4,7 @@
   <title><![CDATA[dhancers]]></title>
   <link href="http://hanscholem.github.io/atom.xml" rel="self"/>
   <link href="http://hanscholem.github.io/"/>
-  <updated>2014-08-29T21:22:57+08:00</updated>
+  <updated>2014-08-29T21:30:48+08:00</updated>
   <id>http://hanscholem.github.io/</id>
   <author>
     <name><![CDATA[Hans Chiang]]></name>
@@ -34,6 +34,8 @@
 <li>天空觀察站，數位單眼相機搭配能夠定位的軟體和調整攝影方向角度的硬體。
 <img src="https://farm4.staticflickr.com/3844/14885904348_cf250bb75b_z.jpg" alt="天空觀察站示意圖" /></li>
 <li>圖片選用 flickr 的 Medium 640 x 478 的大小好像還蠻適合。</li>
+<li>後來同學指正，飛機用的並不是GPS系統，是一種叫ADS-B的系統定位，而且是公開資訊。待研究。</li>
+<li>ADS-B, <a href="http://en.wikipedia.org/wiki/Automatic_dependent_surveillance-broadcast">Automatic dependent surveillance-broadcast</a>.</li>
 </ul>
 
 ]]></content>
