@@ -4,7 +4,7 @@
   <title><![CDATA[dhancers]]></title>
   <link href="http://hanscholem.github.io/atom.xml" rel="self"/>
   <link href="http://hanscholem.github.io/"/>
-  <updated>2014-08-29T08:05:43+08:00</updated>
+  <updated>2014-08-29T10:09:40+08:00</updated>
   <id>http://hanscholem.github.io/</id>
   <author>
     <name><![CDATA[Hans Chiang]]></name>
@@ -34,7 +34,7 @@
     <link href="http://hanscholem.github.io/blog/2014/08/28/20140829/"/>
     <updated>2014-08-28T23:54:10+08:00</updated>
     <id>http://hanscholem.github.io/blog/2014/08/28/20140829</id>
-    <content type="html"><![CDATA[<h2>Memo</h2>
+    <content type="html"><![CDATA[<h3>Memo</h3>
 
 <ul>
 <li>Still trying to figure out how to use this blog properly.</li>
