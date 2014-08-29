@@ -1,0 +1,14 @@
+---
+layout: post
+title: "20140829 Day 4"
+date: 2014-08-29 19:25:45 +0800
+comments: true
+categories: 
+---
+
+### Memo
+
+- Tried shell script to make deploy post and pull data simpler.
+- Weekend.
+- I don't understand why there are scratches on the surface of my Macbook Air.
+- Rubbish.
