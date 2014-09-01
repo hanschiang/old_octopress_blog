@@ -2,54 +2,50 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://hanscholem.github.io/blog/2014/06/11/hello-world/</loc>
-        <lastmod>2014-09-01T17:46:54+08:00</lastmod>
+        <lastmod>2014-08-28T22:34:57+08:00</lastmod>
     </url>
     <url>
         <loc>http://hanscholem.github.io/blog/2014/06/12/test/</loc>
-        <lastmod>2014-09-01T17:46:54+08:00</lastmod>
+        <lastmod>2014-08-28T22:34:57+08:00</lastmod>
     </url>
     <url>
         <loc>http://hanscholem.github.io/blog/2014/08/28/day-3/</loc>
-        <lastmod>2014-09-01T17:46:54+08:00</lastmod>
+        <lastmod>2014-08-28T22:55:52+08:00</lastmod>
     </url>
     <url>
         <loc>http://hanscholem.github.io/blog/2014/08/28/20140829/</loc>
-        <lastmod>2014-09-01T17:46:54+08:00</lastmod>
+        <lastmod>2014-08-29T10:07:06+08:00</lastmod>
     </url>
     <url>
         <loc>http://hanscholem.github.io/blog/2014/08/29/functional/</loc>
-        <lastmod>2014-09-01T17:46:54+08:00</lastmod>
+        <lastmod>2014-08-29T08:05:31+08:00</lastmod>
     </url>
     <url>
         <loc>http://hanscholem.github.io/blog/2014/08/29/script-test/</loc>
-        <lastmod>2014-09-01T17:46:54+08:00</lastmod>
+        <lastmod>2014-08-29T11:27:04+08:00</lastmod>
     </url>
     <url>
         <loc>http://hanscholem.github.io/blog/2014/08/29/mac-script-test/</loc>
-        <lastmod>2014-09-01T17:46:54+08:00</lastmod>
+        <lastmod>2014-08-29T11:52:06+08:00</lastmod>
     </url>
     <url>
         <loc>http://hanscholem.github.io/blog/2014/08/29/20140829-day-4/</loc>
-        <lastmod>2014-09-01T17:46:54+08:00</lastmod>
+        <lastmod>2014-08-29T21:28:59+08:00</lastmod>
     </url>
     <url>
-        <loc>http://hanscholem.github.io/blog/2014/08/31/2014nian-08yue-di/</loc>
-        <lastmod>2014-09-01T17:46:54+08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://hanscholem.github.io/blog/2014/09/01/vmdebian-test/</loc>
-        <lastmod>2014-09-01T18:04:41+08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://hanscholem.github.io/robots.txt</loc>
-        <lastmod>2014-09-01T17:46:54+08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://hanscholem.github.io/blog/archives/</loc>
-        <lastmod>2014-09-01T18:04:41+08:00</lastmod>
+        <loc>http://hanscholem.github.io/blog/2014/09/01/20140901/</loc>
+        <lastmod>2014-09-01T23:32:32+08:00</lastmod>
     </url>
     <url>
         <loc>http://hanscholem.github.io/</loc>
-        <lastmod>2014-09-01T18:04:41+08:00</lastmod>
+        <lastmod>2014-09-01T23:32:32+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://hanscholem.github.io/robots.txt</loc>
+        <lastmod>2014-08-28T22:34:57+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://hanscholem.github.io/blog/archives/</loc>
+        <lastmod>2014-09-01T23:32:32+08:00</lastmod>
     </url>
 </urlset>
