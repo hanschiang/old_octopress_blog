@@ -10,7 +10,13 @@ footer: true
 ### 緣起：
 
 - 當初想自學 Ruby on Rails ，在 Ubuntu 上面搞了一陣子之後覺得不太順利，又剛好 Macbook Air 出新款，毅然決然買了 MBA （Macbook Air）。結果其實效果有限，也是做到一個階段就又卡住。 MBA 使用經驗其實也沒有預想中的好，有好有壞。最後還是想回來用 Ubuntu 。這次比較沒有好高騖遠，第一階段想建立一個 octopress 的 blog 。目前基本的記事功能已經順利可用，接下來做一些微調，就順便用這個 blog 來筆記自己是怎麼做的，也方便自己查詢。
-- 原本希望能夠達成的幾個功能：可用 Markdown 語法， code 表示方便，數學式表示方便。數學的部份好像得因此去學 LaTeX 的語法。
+
+
+### 想要的功能：
+
+1. 可用 Markdown 語法。OK。
+- code 表示方便。OK。
+- 數學式表示方便。OK。數學的部份好像得因此去學 LaTeX 的語法。
 
 $$
 \int_{0}^{\infty}f(x) \mathrm{d}x
@@ -83,8 +89,44 @@ ruby -v
 git config --global color.ui true
 git config --global user.name "YOUR NAME"
 git config --global user.email "YOUR@EMAIL.com"
-ssh-keygen -t rsa -C "YOUR@EMAIL.com"
 ```
+
+
+- ssh-key 製作
+
+https://help.github.com/articles/generating-ssh-keys
+
+```
+ssh-keygen -t rsa -C "YOUR@EMAIL.com"
+cat ~/.ssh/id_rsa.pub                   # 複製 SSH key 的內容，到Github網頁註冊。
+```
+
+
+
+# 安裝 Rails
+
+- 安裝 NodeJS
+
+```
+sudo add-apt-repository ppa:chris-lea/node.js
+sudo apt-get update
+sudo apt-get install nodejs
+```
+
+- 安裝 Rails
+
+```
+gem install rails
+rbenv rehash        # 讓 Rails 可被執行。如果版本管理使用的是 rbenv 的話。
+rails -v            # 確認安裝完的 Rails 的版本。
+```
+
+- 安裝 MySQL
+
+```
+sudo apt-get install mysql-server mysql-client libmysqlclient-dev
+```
+
 
 
 
