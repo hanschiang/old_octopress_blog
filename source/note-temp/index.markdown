@@ -13,7 +13,7 @@ footer: true
 - 原本希望能夠達成的幾個功能：可用 Markdown 語法， code 表示方便，數學式表示方便。數學的部份好像得因此去學 LaTeX 的語法。
 
 $$
-\int_{0}^{\frac{\pi}{2}}f(x) \mathrm{d}x
+\int_{0}^{\infty}f(x) \mathrm{d}x
 $$
 
 
