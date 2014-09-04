@@ -4,7 +4,7 @@
   <title><![CDATA[dhancers]]></title>
   <link href="http://hanscholem.github.io/atom.xml" rel="self"/>
   <link href="http://hanscholem.github.io/"/>
-  <updated>2014-09-03T22:54:25+08:00</updated>
+  <updated>2014-09-04T20:08:42+08:00</updated>
   <id>http://hanscholem.github.io/</id>
   <author>
     <name><![CDATA[Hans Chiang]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[20140904]]></title>
+    <link href="http://hanscholem.github.io/blog/2014/09/04/20140904/"/>
+    <updated>2014-09-04T08:37:32+08:00</updated>
+    <id>http://hanscholem.github.io/blog/2014/09/04/20140904</id>
+    <content type="html"><![CDATA[<h3>Memos</h3>
+
+<ul>
+<li>github還不熟悉，搞掉了前兩天po的兩篇文章，也還好。不過是些雜記。</li>
+<li>新的筆記本（紙本）的使用蠻順利的，只是如同預料的，把工作筆記和生活札記寫在一起，發現寫工作筆記的量遠比生活多。</li>
+<li>不快樂，要尋找快樂的辦法？總覺的這種事情也是有點天生的。有些人就是天生快樂，有些人天生說話大聲……。那我天生什麼？</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[VMDebian Test]]></title>
