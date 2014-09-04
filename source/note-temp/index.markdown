@@ -9,17 +9,24 @@ footer: true
 
 ### 緣起：
 
-當初想自學 Ruby on Rails ，在 Ubuntu 上面搞了一陣子之後覺得不太順利，又剛好 Macbook Air 出新款，毅然決然買了 MBA （Macbook Air）。結果其實效果有限，也是做到一個階段就又卡住。 MBA 使用經驗其實也沒有預想中的好，有好有壞。最後還是想回來用 Ubuntu 。這次比較沒有好高騖遠，第一階段想建立一個 octopress 的 blog 。目前基本的記事功能已經順利可用，接下來做一些微調，就順便用這個 blog 來筆記自己是怎麼做的，也方便自己查詢。
+- 當初想自學 Ruby on Rails ，在 Ubuntu 上面搞了一陣子之後覺得不太順利，又剛好 Macbook Air 出新款，毅然決然買了 MBA （Macbook Air）。結果其實效果有限，也是做到一個階段就又卡住。 MBA 使用經驗其實也沒有預想中的好，有好有壞。最後還是想回來用 Ubuntu 。這次比較沒有好高騖遠，第一階段想建立一個 octopress 的 blog 。目前基本的記事功能已經順利可用，接下來做一些微調，就順便用這個 blog 來筆記自己是怎麼做的，也方便自己查詢。
+- 原本希望能夠達成的幾個功能：可用 Markdown 語法， code 表示方便，數學式表示方便。數學的部份好像得因此去學 LaTeX 的語法。
+
+$$
+\int_{0}^{\frac{\pi}{2}}f(x) \mathrm{d}x
+$$
 
 
 ### 參考文章：
 
 1. [Setup Ruby On Rails on Ubuntu 14.04 Trusty Tahr](https://gorails.com/setup/ubuntu/14.04)
-2. [Blogging Basics (Octopress)](http://octopress.org/docs/blogging/)
-3. [Sharing Code Snippets](http://octopress.org/docs/blogging/code/)
-4. [Markdown Basics](https://help.github.com/articles/markdown-basics)
-5. [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-6. [Add a Page to Top Menu](http://asaf.github.io/blog/2013/07/08/blogging-with-octopress-add-about-page/)
+- [Blogging Basics (Octopress)](http://octopress.org/docs/blogging/)
+- [Sharing Code Snippets](http://octopress.org/docs/blogging/code/)
+- [Markdown Basics](https://help.github.com/articles/markdown-basics)
+- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+- [Add a Page to Top Menu](http://asaf.github.io/blog/2013/07/08/blogging-with-octopress-add-about-page/)
+- [Blogging With Math: Octopress, MathJax, and Pandoc](http://drz.ac/2013/01/03/blogging-with-math/)
+- [LaTeX其它功能：數學表示](http://www.study-area.org/cyril/opentools/opentools/x529.html)
 
 # Ruby on Rails 安裝與設定於 Ubuntu 14.04
 
