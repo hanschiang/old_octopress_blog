@@ -1,10 +1,9 @@
 ---
-layout: page
-title: "note-temp"
-date: 2014-09-04 22:29
+layout: post
+title: "RoR-Ubuntu 00"
+date: 2014-09-05 09:34:40 +0800
 comments: true
-sharing: true
-footer: true
+categories: 
 ---
 
 ### 緣起：

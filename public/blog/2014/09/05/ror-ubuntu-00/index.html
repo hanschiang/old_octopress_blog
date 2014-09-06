@@ -1,24 +1,104 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[dhancers]]></title>
-  <link href="http://hanscholem.github.io/atom.xml" rel="self"/>
-  <link href="http://hanscholem.github.io/"/>
-  <updated>2014-09-06T11:11:36+08:00</updated>
-  <id>http://hanscholem.github.io/</id>
-  <author>
-    <name><![CDATA[Hans Chiang]]></name>
-    
-  </author>
-  <generator uri="http://octopress.org/">Octopress</generator>
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>RoR-Ubuntu 00 - dhancers</title>
+  <meta name="author" content="Hans Chiang">
 
   
-  <entry>
-    <title type="html"><![CDATA[RoR-Ubuntu 00]]></title>
-    <link href="http://hanscholem.github.io/blog/2014/09/05/ror-ubuntu-00/"/>
-    <updated>2014-09-05T09:34:40+08:00</updated>
-    <id>http://hanscholem.github.io/blog/2014/09/05/ror-ubuntu-00</id>
-    <content type="html"><![CDATA[<h3>緣起：</h3>
+  <meta name="description" content="緣起： 當初想自學 Ruby on Rails ，在 Ubuntu 上面搞了一陣子之後覺得不太順利，又剛好 Macbook Air 出新款，毅然決然買了 MBA （Macbook Air）。結果其實效果有限，也是做到一個階段就又卡住。 MBA 使用經驗其實也沒有預想中的好，有好有壞。 &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://hanscholem.github.io/blog/2014/09/05/ror-ubuntu-00">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="dhancers" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="//fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+<!--- MathJax Configuration -->
+<script type="text/javascript"
+src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+  
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">dhancers</a></h1>
+  
+    <h2>Some notes.</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="https://www.google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:hanscholem.github.io" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/note-temp">Note Temp</a></li>
+  <li><a href="/about">About</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">RoR-Ubuntu 00</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-09-05T09:34:40+08:00" pubdate data-updated="true">Sep 5<span>th</span>, 2014</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><h3>緣起：</h3>
 
 <ul>
 <li>當初想自學 Ruby on Rails ，在 Ubuntu 上面搞了一陣子之後覺得不太順利，又剛好 Macbook Air 出新款，毅然決然買了 MBA （Macbook Air）。結果其實效果有限，也是做到一個階段就又卡住。 MBA 使用經驗其實也沒有預想中的好，有好有壞。最後還是想回來用 Ubuntu 。這次比較沒有好高騖遠，第一階段想建立一個 octopress 的 blog 。目前基本的記事功能已經順利可用，接下來做一些微調，就順便用這個 blog 來筆記自己是怎麼做的，也方便自己查詢。</li>
@@ -211,191 +291,120 @@ $$</p>
 <figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 </pre></td><td class='code'><pre><code class=''><span class='line'>tail -f log/development.log</span></code></pre></td></tr></table></div></figure>
 
-]]></content>
-  </entry>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
   
-  <entry>
-    <title type="html"><![CDATA[20140904]]></title>
-    <link href="http://hanscholem.github.io/blog/2014/09/04/20140904/"/>
-    <updated>2014-09-04T08:37:32+08:00</updated>
-    <id>http://hanscholem.github.io/blog/2014/09/04/20140904</id>
-    <content type="html"><![CDATA[<h3>Memos</h3>
 
-<ul>
-<li>github還不熟悉，搞掉了前兩天po的兩篇文章，也還好。不過是些雜記。</li>
-<li>新的筆記本（紙本）的使用蠻順利的，只是如同預料的，把工作筆記和生活札記寫在一起，發現寫工作筆記的量遠比生活多。</li>
-<li>不快樂，要尋找快樂的辦法？總覺的這種事情也是有點天生的。有些人就是天生快樂，有些人天生說話大聲……。那我天生什麼？</li>
-<li>模組，這個詞，沒有一點生活經驗的人大概無法體會。譬如玩格鬥遊戲，從快打旋風二代到三代到很多後來的其他遊戲，人物變化多少，但其實有些動作模組幾乎是延續的，真的新東西很少。工業，生產這類的事情其實也是。</li>
-</ul>
+<span class="byline author vcard">Posted by <span class="fn">Hans Chiang</span></span>
 
-]]></content>
-  </entry>
+      
+
+
+
+
+
+
+
+
   
-  <entry>
-    <title type="html"><![CDATA[VMDebian Test]]></title>
-    <link href="http://hanscholem.github.io/blog/2014/09/01/vmdebian-test/"/>
-    <updated>2014-09-01T17:59:53+08:00</updated>
-    <id>http://hanscholem.github.io/blog/2014/09/01/vmdebian-test</id>
-    <content type="html"><![CDATA[<ul>
-<li>用 VMware 在 Windows 裡裝了 Debian ，只是為了寫寫octopress不用換OS。其實有點自虐。</li>
-</ul>
 
-]]></content>
-  </entry>
+
+<time datetime="2014-09-05T09:34:40+08:00" pubdate data-updated="true">Sep 5<span>th</span>, 2014</time>
+      
+
+
+    </p>
+    
+      <div class="sharing">
   
-  <entry>
-    <title type="html"><![CDATA[2014年08月底09月初]]></title>
-    <link href="http://hanscholem.github.io/blog/2014/08/31/2014nian-08yue-di/"/>
-    <updated>2014-08-31T09:05:39+08:00</updated>
-    <id>http://hanscholem.github.io/blog/2014/08/31/2014nian-08yue-di</id>
-    <content type="html"><![CDATA[<h3>Memo</h3>
-
-<ul>
-<li>八月底，好像應該要反省一下，一年又過了四分之三。</li>
-<li>快三十歲了仍然一無所長，身無恆產。也沒什麼收入。</li>
-<li>困在一些我覺得很沒意義的事情裡。有人說，趕快把沒意義的事情做完就可以去做你覺得有意義的事情了。有時候情緒的部分沒有這麼容易調整，需要訓練。</li>
-</ul>
-
-
-<h3>Tools</h3>
-
-<ul>
-<li>恢復使用 A5 筆記本，與 Raymay 111 Mini 尺寸的手帳（ 128mm x 76mm ）兩個搭配使用。</li>
-<li>參考 Bullet Journal 的做法，調整出一套自己的做法。</li>
-</ul>
-
-]]></content>
-  </entry>
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://hanscholem.github.io/blog/2014/09/05/ror-ubuntu-00/" data-via="" data-counturl="http://hanscholem.github.io/blog/2014/09/05/ror-ubuntu-00/" >Tweet</a>
   
-  <entry>
-    <title type="html"><![CDATA[20140829 Day 4]]></title>
-    <link href="http://hanscholem.github.io/blog/2014/08/29/20140829-day-4/"/>
-    <updated>2014-08-29T19:25:45+08:00</updated>
-    <id>http://hanscholem.github.io/blog/2014/08/29/20140829-day-4</id>
-    <content type="html"><![CDATA[<h3>Memo</h3>
-
-<ul>
-<li>Tried shell script to make deploy post and pull data simpler.</li>
-<li>Weekend.</li>
-<li>I don&rsquo;t understand why there are scratches on the surface of my Macbook Air.</li>
-<li>Rubbish.</li>
-</ul>
-
-
-<h3>Ideas</h3>
-
-<ul>
-<li>天空觀察站，數位單眼相機搭配能夠定位的軟體和調整攝影方向角度的硬體。
-<img src="https://farm4.staticflickr.com/3844/14885904348_cf250bb75b_z.jpg" alt="天空觀察站示意圖" /></li>
-<li>圖片選用 flickr 的 Medium 640 x 478 的大小好像還蠻適合。</li>
-<li>後來同學指正，飛機用的並不是GPS系統，是一種叫ADS-B的系統定位，而且是公開資訊。待研究。</li>
-<li>ADS-B, <a href="http://en.wikipedia.org/wiki/Automatic_dependent_surveillance-broadcast">Automatic dependent surveillance-broadcast</a>.</li>
-</ul>
-
-]]></content>
-  </entry>
   
-  <entry>
-    <title type="html"><![CDATA[MAC Script Test]]></title>
-    <link href="http://hanscholem.github.io/blog/2014/08/29/mac-script-test/"/>
-    <updated>2014-08-29T11:45:28+08:00</updated>
-    <id>http://hanscholem.github.io/blog/2014/08/29/mac-script-test</id>
-    <content type="html"><![CDATA[<ul>
-<li>Test script pulled from git.</li>
-</ul>
-
-]]></content>
-  </entry>
   
-  <entry>
-    <title type="html"><![CDATA[Script Test]]></title>
-    <link href="http://hanscholem.github.io/blog/2014/08/29/script-test/"/>
-    <updated>2014-08-29T11:26:30+08:00</updated>
-    <id>http://hanscholem.github.io/blog/2014/08/29/script-test</id>
-    <content type="html"><![CDATA[<ul>
-<li>Test deploy commands by script.</li>
-</ul>
+</div>
 
-]]></content>
-  </entry>
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2014/09/04/20140904/" title="Previous Post: 20140904">&laquo; 20140904</a>
+      
+      
+    </p>
+  </footer>
+</article>
+
+</div>
+
+<aside class="sidebar">
   
-  <entry>
-    <title type="html"><![CDATA[Functional]]></title>
-    <link href="http://hanscholem.github.io/blog/2014/08/29/functional/"/>
-    <updated>2014-08-29T08:01:44+08:00</updated>
-    <id>http://hanscholem.github.io/blog/2014/08/29/functional</id>
-    <content type="html"><![CDATA[<h3>Memo</h3>
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2014/09/05/ror-ubuntu-00/">RoR-Ubuntu 00</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2014/09/04/20140904/">20140904</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2014/09/01/vmdebian-test/">VMDebian Test</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2014/08/31/2014nian-08yue-di/">2014年08月底09月初</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2014/08/29/20140829-day-4/">20140829 Day 4</a>
+      </li>
+    
+  </ul>
+</section>
 
-<ul>
-<li>Now I can post blog on both computers.</li>
-<li>I&rsquo;m green to git.</li>
-<li>Is it really necessary write a blog completely in English? As a practice.</li>
-</ul>
 
-]]></content>
-  </entry>
+
+
+
   
-  <entry>
-    <title type="html"><![CDATA[20140829]]></title>
-    <link href="http://hanscholem.github.io/blog/2014/08/28/20140829/"/>
-    <updated>2014-08-28T23:54:10+08:00</updated>
-    <id>http://hanscholem.github.io/blog/2014/08/28/20140829</id>
-    <content type="html"><![CDATA[<h3>Memo</h3>
+</aside>
 
-<ul>
-<li>Still trying to figure out how to use this blog properly.</li>
-</ul>
 
-]]></content>
-  </entry>
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2014 - Hans Chiang -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
   
-  <entry>
-    <title type="html"><![CDATA[Day 3]]></title>
-    <link href="http://hanscholem.github.io/blog/2014/08/28/day-3/"/>
-    <updated>2014-08-28T22:36:08+08:00</updated>
-    <id>http://hanscholem.github.io/blog/2014/08/28/day-3</id>
-    <content type="html"><![CDATA[<h3>Memo</h3>
-
-<ul>
-<li>Octopress setup on my Ubuntu machine, done.</li>
-<li>This is another test post. Third one.</li>
-<li>One is learning, slowly&hellip;</li>
-</ul>
 
 
-<h3>To Do</h3>
 
-<ul>
-<li>Post another blog from MAC without destroying any previous post. (Git newbie&hellip;)</li>
-</ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Test]]></title>
-    <link href="http://hanscholem.github.io/blog/2014/06/12/test/"/>
-    <updated>2014-06-12T00:28:22+08:00</updated>
-    <id>http://hanscholem.github.io/blog/2014/06/12/test</id>
-    <content type="html"><![CDATA[<ul>
-<li>This is a test for blogging.</li>
-</ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hello World!]]></title>
-    <link href="http://hanscholem.github.io/blog/2014/06/11/hello-world/"/>
-    <updated>2014-06-11T21:30:29+08:00</updated>
-    <id>http://hanscholem.github.io/blog/2014/06/11/hello-world</id>
-    <content type="html"><![CDATA[<ul>
-<li>It&rsquo;s good to use markdown again. Athough there is a brilliant service logdown also provide the enviorment. I like to setup a blog by octopress anyway.</li>
-<li>I think I would put some notes here.</li>
-<li>There is so much to learn.</li>
-</ul>
 
-]]></content>
-  </entry>
-  
-</feed>
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
