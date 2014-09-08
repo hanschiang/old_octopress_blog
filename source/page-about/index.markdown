@@ -1,0 +1,13 @@
+---
+layout: page
+title: "About"
+date: 2014-09-08 21:08
+comments: true
+sharing: true
+footer: true
+---
+
+我叫江承翰，2010到2014在中壢的一家[封裝廠](http://www.xintec.com.tw/)工作，研發單位的工程師。目前算是休息，做一點助理的工作，閒暇自學一些東西。
+
+這個blog目前是用來放一些雜記和學習的筆記。
+
