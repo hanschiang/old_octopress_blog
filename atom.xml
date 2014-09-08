@@ -4,7 +4,7 @@
   <title><![CDATA[dhancers]]></title>
   <link href="http://hanscholem.github.io/atom.xml" rel="self"/>
   <link href="http://hanscholem.github.io/"/>
-  <updated>2014-09-08T02:44:21+08:00</updated>
+  <updated>2014-09-08T22:22:07+08:00</updated>
   <id>http://hanscholem.github.io/</id>
   <author>
     <name><![CDATA[Hans Chiang]]></name>
@@ -12,6 +12,47 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Naming Rule]]></title>
+    <link href="http://hanscholem.github.io/blog/2014/09/08/naming-rule/"/>
+    <updated>2014-09-08T21:39:36+08:00</updated>
+    <id>http://hanscholem.github.io/blog/2014/09/08/naming-rule</id>
+    <content type="html"><![CDATA[<h3>新增頁面</h3>
+
+<ul>
+<li>檔名規則： page-&lsquo;頁面名稱&rsquo;</li>
+</ul>
+
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>rake new_page[page-name]</span></code></pre></td></tr></table></div></figure>
+
+
+<ul>
+<li>檔案標題： &lsquo;頁面名稱&rsquo;</li>
+</ul>
+
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>---
+</span><span class='line'>layout: page
+</span><span class='line'>title: "頁面名稱"
+</span><span class='line'>date: 2014-09-08 21:08
+</span><span class='line'>comments: true
+</span><span class='line'>sharing: true
+</span><span class='line'>footer: true
+</span><span class='line'>---</span></code></pre></td></tr></table></div></figure>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[RoR-Ubuntu 00]]></title>
