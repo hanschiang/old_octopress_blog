@@ -4,7 +4,7 @@
   <title><![CDATA[dhancers]]></title>
   <link href="http://hanscholem.github.io/atom.xml" rel="self"/>
   <link href="http://hanscholem.github.io/"/>
-  <updated>2014-09-10T00:22:07+08:00</updated>
+  <updated>2014-09-10T14:27:07+08:00</updated>
   <id>http://hanscholem.github.io/</id>
   <author>
     <name><![CDATA[Hans Chiang]]></name>
@@ -18,9 +18,15 @@
     <link href="http://hanscholem.github.io/blog/2014/09/10/mtgwan-quan-xin-shou-zhi-nan/"/>
     <updated>2014-09-10T00:11:59+08:00</updated>
     <id>http://hanscholem.github.io/blog/2014/09/10/mtgwan-quan-xin-shou-zhi-nan</id>
-    <content type="html"><![CDATA[<p>在 ptt Magic 板上心頭一熱po的心得文。</p>
+    <content type="html"><![CDATA[<p>在 ptt Magic 板上看到有個完全沒接觸過的 mtg 的新手問了如何入門的問題，心頭一熱 po 了一篇心得文。承蒙新手村村長任大轉載。覺得還有許多可以寫得更清楚一點的地方，所以資源回收回來一下。持續修訂。</p>
 
-<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<p>簡而言之完全沒有經驗的新手可以如何入門：
+0. 閱讀規則書，大致了解遊戲怎麼進行。
+1. 了解標準賽制，可以用的牌是哪幾個系列。
+2. 預算1000~1500。買一份 Intro Pack ，三包補充包，先用現有的這些牌，組一副60張的deck（套牌）。
+3. 找人玩玩看。如果你沒有比較熟識的牌友，那麼去卡店，找組標準賽套牌的人打。我想大部份的玩家對新手都還算友善啦。</p>
+
+<figure class='code'><figcaption><span>ptt原文</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 <span class='line-number'>2</span>
 <span class='line-number'>3</span>
 <span class='line-number'>4</span>
@@ -127,7 +133,7 @@
 <span class='line-number'>105</span>
 <span class='line-number'>106</span>
 <span class='line-number'>107</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>作者evilchiang (虫回人間)
+</pre></td><td class='code'><pre><code class='text'><span class='line'>作者evilchiang (虫回人間)
 </span><span class='line'>看板Magic
 </span><span class='line'>標題Re: 新加入的新手
 </span><span class='line'>時間Tue Sep  9 01:26:58 2014
@@ -233,7 +239,8 @@
 </span><span class='line'>
 </span><span class='line'>不小心寫成心得文了。
 </span><span class='line'>
-</span><span class='line'>總之先組個deck吧。想找人打可以去fb的新手村問問看。</span></code></pre></td></tr></table></div></figure>
+</span><span class='line'>總之先組個deck吧。想找人打可以去fb的新手村問問看。
+</span></code></pre></td></tr></table></div></figure>
 
 ]]></content>
   </entry>
