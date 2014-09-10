@@ -17,6 +17,13 @@ categories:
 4 Thornwood Falls    GU  躺地
 3 樹林               G   基本地
 
+地牌顏色比例：
+G 19/23
+U 16/23
+B 12/23
+R  4/23
+
+
 Prophet of Kruphix 每個回合重置生物和地，生物可以閃現施放
 Savage Knuckleblade   類似古靈精怪？
 
