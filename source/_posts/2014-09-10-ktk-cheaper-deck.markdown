@@ -17,14 +17,14 @@ categories:
 4 Thornwood Falls    GU  躺地
 3 樹林               G   基本地
 
+Prophet of Kruphix 每個回合重置生物和地，生物可以閃現施放
+Savage Knuckleblade   類似古靈精怪？
 
-Voyaging Satyr        讓躺地站起來
-Kiora's Follower      讓永久物站起來
-Satyr Hedonist        內建紅祭禮
+4 Voyaging Satyr        讓躺地站起來
+4 Kiora's Follower      讓永久物站起來
 Golden Hind           2/1，mana頭
 Elvish Mystic         mana頭
-
-Savage Knuckleblade   類似古靈精怪？
+Satyr Hedonist        內建紅祭禮
 
 Karametra's Favor     調色靈氣
 Mortal's Resolve      +1/+1, 不滅到回合結束
