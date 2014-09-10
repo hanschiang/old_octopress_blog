@@ -4,7 +4,7 @@
   <title><![CDATA[dhancers]]></title>
   <link href="http://hanscholem.github.io/atom.xml" rel="self"/>
   <link href="http://hanscholem.github.io/"/>
-  <updated>2014-09-10T15:09:44+08:00</updated>
+  <updated>2014-09-10T15:49:40+08:00</updated>
   <id>http://hanscholem.github.io/</id>
   <author>
     <name><![CDATA[Hans Chiang]]></name>
@@ -12,6 +12,65 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[KTK Cheaper Deck]]></title>
+    <link href="http://hanscholem.github.io/blog/2014/09/10/ktk-cheaper-deck/"/>
+    <updated>2014-09-10T15:47:56+08:00</updated>
+    <id>http://hanscholem.github.io/blog/2014/09/10/ktk-cheaper-deck</id>
+    <content type="html"><![CDATA[<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+<span class='line-number'>20</span>
+<span class='line-number'>21</span>
+<span class='line-number'>22</span>
+<span class='line-number'>23</span>
+<span class='line-number'>24</span>
+<span class='line-number'>25</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>基本想法：藍綠底，紅黑輔（偏黑）
+</span><span class='line'>
+</span><span class='line'>4 Opulent Palace     GUB 躺地
+</span><span class='line'>4 Frontier Bivouac   GUR 躺地
+</span><span class='line'>4 Dismal Backwater   UB  躺地
+</span><span class='line'>4 Jungle Hollow      GB  躺地
+</span><span class='line'>4 Thornwood Falls    GU  躺地
+</span><span class='line'>3 樹林               G   基本地
+</span><span class='line'>
+</span><span class='line'>
+</span><span class='line'>Voyaging Satyr        讓躺地站起來
+</span><span class='line'>Kiora's Follower      讓永久物站起來
+</span><span class='line'>Satyr Hedonist        內建紅祭禮
+</span><span class='line'>Golden Hind           2/1，mana頭
+</span><span class='line'>Elvish Mystic         mana頭
+</span><span class='line'>
+</span><span class='line'>Savage Knuckleblade   類似古靈精怪？
+</span><span class='line'>
+</span><span class='line'>Karametra's Favor     調色靈氣
+</span><span class='line'>Mortal's Resolve      +1/+1, 不滅到回合結束
+</span><span class='line'>
+</span><span class='line'>Kruphix's Insight     濾牌，找結界，填墳
+</span><span class='line'>Commune with the Gods 濾牌，生物或結界，填墳
+</span><span class='line'>Satyr Wayfinder       濾牌，找地，填墳
+</span><span class='line'>Font of Fertility     找地</span></code></pre></td></tr></table></div></figure>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[MTG完全新手指南]]></title>
