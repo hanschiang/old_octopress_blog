@@ -10,20 +10,25 @@ categories:
 ```
 基本想法：藍綠底，紅黑輔（偏黑）
 
-4 Opulent Palace     GUB 躺地
-4 Frontier Bivouac   GUR 躺地
-4 Dismal Backwater   UB  躺地
-4 Jungle Hollow      GB  躺地
-4 Thornwood Falls    GU  躺地
-3 樹林               G   基本地
+Opulent Palace     GUB 躺地
+Frontier Bivouac   GUR 躺地
+Dismal Backwater   UB  躺地
+Jungle Hollow      GB  躺地
+Thornwood Falls    GU  躺地
+Swiftwater Cliffs  RU  躺地
+
+Forest             G   基本地
+Mountain           R   基本地
+Island             U   基本地
 
 地牌顏色比例：
-G 19/23
-U 16/23
-B 12/23
-R  4/23
+G /23
+U /23
+B /23
+R /23
 
 
+Spellheart Chimera 
 Prophet of Kruphix 每個回合重置生物和地，生物可以閃現施放
 Savage Knuckleblade   類似古靈精怪？
 
