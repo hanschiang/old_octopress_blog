@@ -16,6 +16,7 @@ Dismal Backwater   UB  躺地
 Jungle Hollow      GB  躺地
 Thornwood Falls    GU  躺地
 Swiftwater Cliffs  RU  躺地
+Rugged Highlands  GR  躺地
 
 Forest             G   基本地
 Mountain           R   基本地
