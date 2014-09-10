@@ -4,7 +4,7 @@
   <title><![CDATA[dhancers]]></title>
   <link href="http://hanscholem.github.io/atom.xml" rel="self"/>
   <link href="http://hanscholem.github.io/"/>
-  <updated>2014-09-10T20:49:09+08:00</updated>
+  <updated>2014-09-10T20:50:25+08:00</updated>
   <id>http://hanscholem.github.io/</id>
   <author>
     <name><![CDATA[Hans Chiang]]></name>
@@ -55,6 +55,7 @@
 <span class='line-number'>35</span>
 <span class='line-number'>36</span>
 <span class='line-number'>37</span>
+<span class='line-number'>38</span>
 </pre></td><td class='code'><pre><code class=''><span class='line'>基本想法：藍綠底，紅黑輔（偏黑）
 </span><span class='line'>
 </span><span class='line'>Opulent Palace     GUB 躺地
@@ -63,6 +64,7 @@
 </span><span class='line'>Jungle Hollow      GB  躺地
 </span><span class='line'>Thornwood Falls    GU  躺地
 </span><span class='line'>Swiftwater Cliffs  RU  躺地
+</span><span class='line'>Rugged Highlands  GR  躺地
 </span><span class='line'>
 </span><span class='line'>Forest             G   基本地
 </span><span class='line'>Mountain           R   基本地
