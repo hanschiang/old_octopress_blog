@@ -7,12 +7,10 @@ sharing: true
 footer: true
 ---
 
-
 ### 記錄
 
 - 20140601 任大建立 [mtg 新手村 fb 粉絲專頁](https://www.facebook.com/groups/635044613244573/)。
 - [本網誌所有mtg的文章]({{ root_url }}/blog/categories/mtg/)
-
 
 
 ### 心得摘要整理
