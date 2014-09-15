@@ -3,7 +3,7 @@ layout: post
 title: "KTK Cheaper Deck"
 date: 2014-09-10 15:47:56 +0800
 comments: true
-categories: 
+categories: mtg
 ---
 
 

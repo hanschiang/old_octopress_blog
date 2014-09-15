@@ -3,7 +3,7 @@ layout: post
 title: "MTG完全新手指南"
 date: 2014-09-10 00:11:59 +0800
 comments: true
-categories: 
+categories: mtg
 ---
 
 在 ptt Magic 板上看到有個完全沒接觸過的 mtg 的新手問了如何入門的問題，心頭一熱 po 了一篇心得文。承蒙新手村村長任大轉載。覺得還有許多可以寫得更清楚一點的地方，所以資源回收回來一下。持續修訂。
