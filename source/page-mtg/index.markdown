@@ -9,7 +9,7 @@ footer: true
 
 ### 庫存
 
-- [本網誌所有mtg的文章]({{ root_url }}blog/categories/mtg/)
+- [本網誌所有mtg的文章]({{ root_url }}/blog/categories/mtg/)
 
 
 ### 記錄
