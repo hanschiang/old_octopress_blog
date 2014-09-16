@@ -6,7 +6,7 @@ comments: true
 categories: mtg
 ---
 
-### 主題排張
+### 主題牌張
 
 - 時光智者 + 旭日羈絆
 
