@@ -15,7 +15,7 @@ footer: true
 - 總是想要研發便宜的打法。
 
 
-### 選文
+### 自選文
 
 - [完全新手指南]({{ root_url }}/blog/2014/09/10/mtgwan-quan-xin-shou-zhi-nan/)
 - [KTK Cheaper Deck]({{ root_url }}/blog/2014/09/10/ktk-cheaper-deck/)
