@@ -4,5 +4,8 @@
 
 <!--- MathJax Configuration -->
 <script type="text/javascript"
-src="{{ root_url }}/javascripts/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
+{% if site.facebook_appid %}
+<meta property="fb:app_id" content="{{ site.facebook_appid }}" />
+{% endif %}

@@ -4,7 +4,7 @@
   <title><![CDATA[dhancers]]></title>
   <link href="http://hanscholem.github.io/atom.xml" rel="self"/>
   <link href="http://hanscholem.github.io/"/>
-  <updated>2014-09-18T21:36:48+08:00</updated>
+  <updated>2014-09-18T22:52:03+08:00</updated>
   <id>http://hanscholem.github.io/</id>
   <author>
     <name><![CDATA[Hans Chiang]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Facebook 留言測試]]></title>
+    <link href="http://hanscholem.github.io/blog/2014/09/18/facebook-liu-yan-ce-shi/"/>
+    <updated>2014-09-18T22:51:04+08:00</updated>
+    <id>http://hanscholem.github.io/blog/2014/09/18/facebook-liu-yan-ce-shi</id>
+    <content type="html"><![CDATA[<h3>測試 facebook 留言功能</h3>
+
+<ol>
+<li>測試 like 。</li>
+<li>測試 share 。</li>
+<li>測試留言。</li>
+</ol>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Fun Deck 主題思考03 時光羈絆]]></title>
