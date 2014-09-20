@@ -3,7 +3,7 @@ layout: post
 title: "Fun Deck 主題思考04 忒特高僧"
 date: 2014-09-20 12:33:25 +0800
 comments: true
-categories: 
+categories: mtg
 ---
 
 ### 主題牌張
