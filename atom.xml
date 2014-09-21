@@ -4,7 +4,7 @@
   <title><![CDATA[dhancers]]></title>
   <link href="http://hanscholem.github.io/atom.xml" rel="self"/>
   <link href="http://hanscholem.github.io/"/>
-  <updated>2014-09-20T13:46:51+08:00</updated>
+  <updated>2014-09-21T23:10:43+08:00</updated>
   <id>http://hanscholem.github.io/</id>
   <author>
     <name><![CDATA[Hans Chiang]]></name>
@@ -12,6 +12,47 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Fb帳號分隔註記]]></title>
+    <link href="http://hanscholem.github.io/blog/2014/09/21/fbzhang-hao-fen-ge-zhu-ji/"/>
+    <updated>2014-09-21T21:55:16+08:00</updated>
+    <id>http://hanscholem.github.io/blog/2014/09/21/fbzhang-hao-fen-ge-zhu-ji</id>
+    <content type="html"><![CDATA[<h3>起因：無節制的亂加好友</h3>
+
+<ul>
+<li>從國小同學，國中同學，高中同學，大學同學，上班同事，幾乎覺得還有印象就加了。</li>
+<li>又一直很懶得整理名單。</li>
+</ul>
+
+
+<h3>困擾：自己洗板覺得會造成別人的困擾</h3>
+
+<ul>
+<li>很喜歡轉錄文章，又時常po文抱怨或者寫一些自己寫爽的東西。</li>
+<li>不只一次有朋友反應我應該注意不要隨便po文（抱怨事情），說者無意聽者有心，我想同理於轉錄文吧。</li>
+</ul>
+
+
+<h3>失敗過的處理方式：節制自己發文</h3>
+
+<ul>
+<li>節制這個詞跟忍耐幾乎是等義，而一般人忍耐久了通常都會鬆掉。</li>
+</ul>
+
+
+<h3>打算嘗試的處理方式：另開一個po文或轉文用的fb帳號</h3>
+
+<ul>
+<li>就是字面上的，舊的帳號就變成收看用的吧，基本上不po文，不轉錄。</li>
+<li>新開一個專門po文與轉錄文用的帳號，其實也是變相的雲端儲存。</li>
+<li>想follow的自己去<a href="https://www.facebook.com/Hans.EBC">follow</a>。這樣被我洗版也是follower歡喜甘願，我也可以少一點擔心。</li>
+<li>不過新的帳號既然是個公開的帳號，基本上就不會去加好友了（舊帳號聯誼化？）。</li>
+<li>其實我也覺得這招有點鳥，總之試試看吧。</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Fun Deck 主題思考04 忒特高僧]]></title>
@@ -837,20 +878,6 @@ $$</p>
     <id>http://hanscholem.github.io/blog/2014/06/12/test</id>
     <content type="html"><![CDATA[<ul>
 <li>This is a test for blogging.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hello World!]]></title>
-    <link href="http://hanscholem.github.io/blog/2014/06/11/hello-world/"/>
-    <updated>2014-06-11T21:30:29+08:00</updated>
-    <id>http://hanscholem.github.io/blog/2014/06/11/hello-world</id>
-    <content type="html"><![CDATA[<ul>
-<li>It&rsquo;s good to use markdown again. Athough there is a brilliant service logdown also provide the enviorment. I like to setup a blog by octopress anyway.</li>
-<li>I think I would put some notes here.</li>
-<li>There is so much to learn.</li>
 </ul>
 
 ]]></content>
