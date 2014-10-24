@@ -4,7 +4,7 @@
   <title><![CDATA[dhancers]]></title>
   <link href="http://hanscholem.github.io/atom.xml" rel="self"/>
   <link href="http://hanscholem.github.io/"/>
-  <updated>2014-10-15T10:22:35+08:00</updated>
+  <updated>2014-10-24T18:07:22+08:00</updated>
   <id>http://hanscholem.github.io/</id>
   <author>
     <name><![CDATA[Hans Chiang]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[20141024]]></title>
+    <link href="http://hanscholem.github.io/blog/2014/10/24/20141024/"/>
+    <updated>2014-10-24T16:54:42+08:00</updated>
+    <id>http://hanscholem.github.io/blog/2014/10/24/20141024</id>
+    <content type="html"><![CDATA[<ul>
+<li>需要振作起來。</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[如何組一副標準套牌]]></title>
@@ -898,29 +910,6 @@ $$</p>
 
 <ul>
 <li>Still trying to figure out how to use this blog properly.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Day 3]]></title>
-    <link href="http://hanscholem.github.io/blog/2014/08/28/day-3/"/>
-    <updated>2014-08-28T22:36:08+08:00</updated>
-    <id>http://hanscholem.github.io/blog/2014/08/28/day-3</id>
-    <content type="html"><![CDATA[<h3>Memo</h3>
-
-<ul>
-<li>Octopress setup on my Ubuntu machine, done.</li>
-<li>This is another test post. Third one.</li>
-<li>One is learning, slowly&hellip;</li>
-</ul>
-
-
-<h3>To Do</h3>
-
-<ul>
-<li>Post another blog from MAC without destroying any previous post. (Git newbie&hellip;)</li>
 </ul>
 
 ]]></content>
