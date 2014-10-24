@@ -4,7 +4,7 @@
   <title><![CDATA[dhancers]]></title>
   <link href="http://hanscholem.github.io/atom.xml" rel="self"/>
   <link href="http://hanscholem.github.io/"/>
-  <updated>2014-10-14T23:21:24+08:00</updated>
+  <updated>2014-10-24T18:07:22+08:00</updated>
   <id>http://hanscholem.github.io/</id>
   <author>
     <name><![CDATA[Hans Chiang]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[20141024]]></title>
+    <link href="http://hanscholem.github.io/blog/2014/10/24/20141024/"/>
+    <updated>2014-10-24T16:54:42+08:00</updated>
+    <id>http://hanscholem.github.io/blog/2014/10/24/20141024</id>
+    <content type="html"><![CDATA[<ul>
+<li>需要振作起來。</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[如何組一副標準套牌]]></title>
@@ -38,14 +50,25 @@
 
 <p>然後先湊個六十張去卡店找人電或者被人電再回來調。去卡店隨意找人打要有心理準備通常會被電啦，可是這種贏了也會比較爽。</p>
 
-<p>整理一下，大概就是：
-1. 決定主題
-2. 決定套牌有幾個顏色
-3. 處理魔法力源的供應穩定度
-4. 依據想打的主題決定牌張的數量
-a. 生物咒語
-b. 非生物咒語（瞬間，巫術，神器，結界，有第五種？）
-5. 找人測試後調整</p>
+<p>整理一下，大概就是：</p>
+
+<ol>
+<li>決定主題</li>
+<li>決定套牌有幾個顏色</li>
+<li>處理魔法力源的供應穩定度</li>
+<li>依據想打的主題決定牌張的數量
+
+<ul>
+<li>地</li>
+<li>生物咒語</li>
+<li>非生物咒語（瞬間，巫術，神器，結界，有第五種？）</li>
+</ul>
+</li>
+<li>找人測試後調整</li>
+</ol>
+
+
+<p>（標準賽的deck至少是60張，EDH也就是指揮官賽制是99張加1張指揮官，限制賽是至少40張。）</p>
 
 <p>說真的，除了5. 是最後一步是固定的之外，1~4幾乎是看個人習慣，不一定是這個順序。</p>
 
@@ -887,29 +910,6 @@ $$</p>
 
 <ul>
 <li>Still trying to figure out how to use this blog properly.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Day 3]]></title>
-    <link href="http://hanscholem.github.io/blog/2014/08/28/day-3/"/>
-    <updated>2014-08-28T22:36:08+08:00</updated>
-    <id>http://hanscholem.github.io/blog/2014/08/28/day-3</id>
-    <content type="html"><![CDATA[<h3>Memo</h3>
-
-<ul>
-<li>Octopress setup on my Ubuntu machine, done.</li>
-<li>This is another test post. Third one.</li>
-<li>One is learning, slowly&hellip;</li>
-</ul>
-
-
-<h3>To Do</h3>
-
-<ul>
-<li>Post another blog from MAC without destroying any previous post. (Git newbie&hellip;)</li>
 </ul>
 
 ]]></content>
