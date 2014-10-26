@@ -4,7 +4,7 @@
   <title><![CDATA[dhancers]]></title>
   <link href="http://hanscholem.github.io/atom.xml" rel="self"/>
   <link href="http://hanscholem.github.io/"/>
-  <updated>2014-10-24T18:07:22+08:00</updated>
+  <updated>2014-10-26T09:49:12+08:00</updated>
   <id>http://hanscholem.github.io/</id>
   <author>
     <name><![CDATA[Hans Chiang]]></name>
@@ -12,6 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Markdown Example]]></title>
+    <link href="http://hanscholem.github.io/blog/2014/10/26/markdown-example/"/>
+    <updated>2014-10-26T09:42:19+08:00</updated>
+    <id>http://hanscholem.github.io/blog/2014/10/26/markdown-example</id>
+    <content type="html"><![CDATA[<ul>
+<li>條列範例。</li>
+<li>條列範例2。</li>
+<li>條列範例3。</li>
+</ul>
+
+
+<p>　　打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章。</p>
+
+<blockquote><p>這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用。</p></blockquote>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>這是純文字狀態123123481740-9870897)(&^)*&%)*&^%)_(^)_*(@&_)(*&@_)(*^@_()*^)_@(*&^</span></code></pre></td></tr></table></div></figure>
+
+
+<ol>
+<li>項目符號範例。</li>
+<li>項目符號範例2。</li>
+<li>項目符號範例3。</li>
+</ol>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[20141024]]></title>
@@ -896,20 +925,6 @@ $$</p>
 <li>Now I can post blog on both computers.</li>
 <li>I&rsquo;m green to git.</li>
 <li>Is it really necessary write a blog completely in English? As a practice.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[20140829]]></title>
-    <link href="http://hanscholem.github.io/blog/2014/08/28/20140829/"/>
-    <updated>2014-08-28T23:54:10+08:00</updated>
-    <id>http://hanscholem.github.io/blog/2014/08/28/20140829</id>
-    <content type="html"><![CDATA[<h3>Memo</h3>
-
-<ul>
-<li>Still trying to figure out how to use this blog properly.</li>
 </ul>
 
 ]]></content>
