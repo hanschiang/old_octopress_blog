@@ -9,23 +9,8 @@
   <meta name="author" content="Hans Chiang">
 
   
-  <meta name="description" content="自己亂摸python……。 費布納西數列，看著範例寫的時候好像都很簡單，自己不看別人的code想的時候想了一陣子。寫出來好像還是有點鱉腳。雖然功能是有對。 1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-number = int(raw_input("How many &hellip;">
+  <meta name="description" content="
+">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -119,74 +104,7 @@ src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorM
   </header>
 
 
-<div class="entry-content"><p>自己亂摸python……。</p>
-
-<p>費布納西數列，看著範例寫的時候好像都很簡單，自己不看別人的code想的時候想了一陣子。寫出來好像還是有點鱉腳。雖然功能是有對。</p>
-
-<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-<span class='line-number'>7</span>
-<span class='line-number'>8</span>
-<span class='line-number'>9</span>
-<span class='line-number'>10</span>
-<span class='line-number'>11</span>
-<span class='line-number'>12</span>
-<span class='line-number'>13</span>
-<span class='line-number'>14</span>
-<span class='line-number'>15</span>
-<span class='line-number'>16</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>number = int(raw_input("How many numbers?&gt;")) - 2
-</span><span class='line'>count = 0
-</span><span class='line'>fibonacci = [0, 1]
-</span><span class='line'>
-</span><span class='line'>a = 0
-</span><span class='line'>b = 1
-</span><span class='line'>c = 1
-</span><span class='line'>
-</span><span class='line'>while count &lt; number:
-</span><span class='line'>    count += 1
-</span><span class='line'>    b = c
-</span><span class='line'>    c = a + b
-</span><span class='line'>    fibonacci.append(c)
-</span><span class='line'>    a = b
-</span><span class='line'>
-</span><span class='line'>print fibonacci
-</span></code></pre></td></tr></table></div></figure>
-
-
-<p>Google到別人的寫法是類似：</p>
-
-<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-<span class='line-number'>7</span>
-<span class='line-number'>8</span>
-<span class='line-number'>9</span>
-<span class='line-number'>10</span>
-<span class='line-number'>11</span>
-<span class='line-number'>12</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>n = raw_input("How many numbers")
-</span><span class='line'>
-</span><span class='line'>count = 1
-</span><span class='line'>a, b = 0, 1
-</span><span class='line'>result = []
-</span><span class='line'>
-</span><span class='line'>while count &lt; int(n):
-</span><span class='line'>    count += 1
-</span><span class='line'>    result.append(a)
-</span><span class='line'>    a, b = b, a + b
-</span><span class='line'>
-</span><span class='line'>print result</span></code></pre></td></tr></table></div></figure>
-
-
-<p>簡潔許多。</p>
+<div class="entry-content">
 </div>
 
 
