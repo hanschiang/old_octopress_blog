@@ -4,7 +4,7 @@
   <title><![CDATA[dhancers]]></title>
   <link href="http://hanscholem.github.io/atom.xml" rel="self"/>
   <link href="http://hanscholem.github.io/"/>
-  <updated>2015-01-10T23:46:29+08:00</updated>
+  <updated>2015-01-11T00:03:46+08:00</updated>
   <id>http://hanscholem.github.io/</id>
   <author>
     <name><![CDATA[Hans Chiang]]></name>
@@ -18,7 +18,11 @@
     <link href="http://hanscholem.github.io/blog/2015/01/10/fibonacci/"/>
     <updated>2015-01-10T23:30:05+08:00</updated>
     <id>http://hanscholem.github.io/blog/2015/01/10/fibonacci</id>
-    <content type="html"><![CDATA[<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+    <content type="html"><![CDATA[<p>自己亂摸python……。</p>
+
+<p>費布納西數列，看著範例寫的時候好像都很簡單，自己不看別人的code想的時候想了一陣子。寫出來好像還是有點鱉腳。雖然功能是有對。</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 <span class='line-number'>2</span>
 <span class='line-number'>3</span>
 <span class='line-number'>4</span>
@@ -34,9 +38,7 @@
 <span class='line-number'>14</span>
 <span class='line-number'>15</span>
 <span class='line-number'>16</span>
-<span class='line-number'>17</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>
-</span><span class='line'>number = int(raw_input("How many numbers?&gt;")) - 2
+</pre></td><td class='code'><pre><code class=''><span class='line'>number = int(raw_input("How many numbers?&gt;")) - 2
 </span><span class='line'>count = 0
 </span><span class='line'>fibonacci = [0, 1]
 </span><span class='line'>
@@ -54,6 +56,30 @@
 </span><span class='line'>print fibonacci
 </span></code></pre></td></tr></table></div></figure>
 
+
+<p>Google到別人的寫法是類似：</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>n = int(raw_input("How many numbers?&gt;"))
+</span><span class='line'>a, b = 0, 1
+</span><span class='line'>result = []
+</span><span class='line'>
+</span><span class='line'>while b &lt; n:
+</span><span class='line'>    result.append(b)
+</span><span class='line'>    a, b = b, a + b
+</span><span class='line'>
+</span><span class='line'>print result</span></code></pre></td></tr></table></div></figure>
+
+
+<p>簡潔許多。</p>
 ]]></content>
   </entry>
   

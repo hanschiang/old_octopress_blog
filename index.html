@@ -9,7 +9,7 @@
   <meta name="author" content="Hans Chiang">
 
   
-  <meta name="description" content="1
+  <meta name="description" content="自己亂摸python……。 費布納西數列，看著範例寫的時候好像都很簡單，自己不看別人的code想的時候想了一陣子。寫出來好像還是有點鱉腳。雖然功能是有對。 1
 2
 3
 4
@@ -25,11 +25,7 @@
 14
 15
 16
-17 number = int(raw_input("How many numbers?&gt;")) - 2
-count = 0
-fibonacci = [0, 1] a = 0
-b = 1
-c = 1 while &hellip;">
+number = int(raw_input("How many &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -126,7 +122,11 @@ src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorM
   </header>
 
 
-  <div class="entry-content"><figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+  <div class="entry-content"><p>自己亂摸python……。</p>
+
+<p>費布納西數列，看著範例寫的時候好像都很簡單，自己不看別人的code想的時候想了一陣子。寫出來好像還是有點鱉腳。雖然功能是有對。</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 <span class='line-number'>2</span>
 <span class='line-number'>3</span>
 <span class='line-number'>4</span>
@@ -142,9 +142,7 @@ src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorM
 <span class='line-number'>14</span>
 <span class='line-number'>15</span>
 <span class='line-number'>16</span>
-<span class='line-number'>17</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>
-</span><span class='line'>number = int(raw_input("How many numbers?&gt;")) - 2
+</pre></td><td class='code'><pre><code class=''><span class='line'>number = int(raw_input("How many numbers?&gt;")) - 2
 </span><span class='line'>count = 0
 </span><span class='line'>fibonacci = [0, 1]
 </span><span class='line'>
@@ -162,6 +160,30 @@ src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorM
 </span><span class='line'>print fibonacci
 </span></code></pre></td></tr></table></div></figure>
 
+
+<p>Google到別人的寫法是類似：</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>n = int(raw_input("How many numbers?&gt;"))
+</span><span class='line'>a, b = 0, 1
+</span><span class='line'>result = []
+</span><span class='line'>
+</span><span class='line'>while b &lt; n:
+</span><span class='line'>    result.append(b)
+</span><span class='line'>    a, b = b, a + b
+</span><span class='line'>
+</span><span class='line'>print result</span></code></pre></td></tr></table></div></figure>
+
+
+<p>簡潔許多。</p>
 </div>
   
   
