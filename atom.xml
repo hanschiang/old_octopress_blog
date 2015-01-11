@@ -4,7 +4,7 @@
   <title><![CDATA[dhancers]]></title>
   <link href="http://hanscholem.github.io/atom.xml" rel="self"/>
   <link href="http://hanscholem.github.io/"/>
-  <updated>2015-01-11T01:10:44+08:00</updated>
+  <updated>2015-01-11T09:34:20+08:00</updated>
   <id>http://hanscholem.github.io/</id>
   <author>
     <name><![CDATA[Hans Chiang]]></name>
@@ -18,7 +18,40 @@
     <link href="http://hanscholem.github.io/blog/2015/01/10/fibonacci/"/>
     <updated>2015-01-10T23:30:05+08:00</updated>
     <id>http://hanscholem.github.io/blog/2015/01/10/fibonacci</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>
+</span><span class='line'>n = int(raw_input("Nth number?&gt;"))
+</span><span class='line'>
+</span><span class='line'>def fibo(n):
+</span><span class='line'>
+</span><span class='line'>    if n == 1:
+</span><span class='line'>        return 0
+</span><span class='line'>        
+</span><span class='line'>    elif n == 2:
+</span><span class='line'>        return 1
+</span><span class='line'>
+</span><span class='line'>    else:
+</span><span class='line'>        return fibo(n - 1) + fibo(n - 2)
+</span><span class='line'>
+</span><span class='line'>print fibo(n)
+</span></code></pre></td></tr></table></div></figure>
+
+
+
 ]]></content>
   </entry>
   
