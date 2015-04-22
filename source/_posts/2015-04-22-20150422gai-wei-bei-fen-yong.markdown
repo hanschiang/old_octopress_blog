@@ -7,3 +7,5 @@ categories:
 ---
 
 20150422，想要繼續使用octopress，但目前可能只是作為備份站使用。
+
+主站在http://evilchiang.blogspot.tw/
