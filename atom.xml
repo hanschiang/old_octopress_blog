@@ -4,7 +4,7 @@
   <title><![CDATA[dhancers]]></title>
   <link href="http://hanscholem.github.io/atom.xml" rel="self"/>
   <link href="http://hanscholem.github.io/"/>
-  <updated>2015-04-22T12:25:01+08:00</updated>
+  <updated>2015-04-22T14:14:31+08:00</updated>
   <id>http://hanscholem.github.io/</id>
   <author>
     <name><![CDATA[Hans Chiang]]></name>
@@ -19,6 +19,8 @@
     <updated>2015-04-22T12:20:04+08:00</updated>
     <id>http://hanscholem.github.io/blog/2015/04/22/20150422gai-wei-bei-fen-yong</id>
     <content type="html"><![CDATA[<p>20150422，想要繼續使用octopress，但目前可能只是作為備份站使用。</p>
+
+<p>主站在<a href="http://evilchiang.blogspot.tw/">http://evilchiang.blogspot.tw/</a></p>
 ]]></content>
   </entry>
   
