@@ -4,7 +4,7 @@
   <title><![CDATA[dhancers]]></title>
   <link href="http://hanscholem.github.io/atom.xml" rel="self"/>
   <link href="http://hanscholem.github.io/"/>
-  <updated>2014-10-26T10:17:48+08:00</updated>
+  <updated>2015-04-22T12:25:01+08:00</updated>
   <id>http://hanscholem.github.io/</id>
   <author>
     <name><![CDATA[Hans Chiang]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[20150422改為備份用]]></title>
+    <link href="http://hanscholem.github.io/blog/2015/04/22/20150422gai-wei-bei-fen-yong/"/>
+    <updated>2015-04-22T12:20:04+08:00</updated>
+    <id>http://hanscholem.github.io/blog/2015/04/22/20150422gai-wei-bei-fen-yong</id>
+    <content type="html"><![CDATA[<p>20150422，想要繼續使用octopress，但目前可能只是作為備份站使用。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Markdown Example]]></title>
@@ -927,22 +936,6 @@ $$</p>
     <id>http://hanscholem.github.io/blog/2014/08/29/script-test</id>
     <content type="html"><![CDATA[<ul>
 <li>Test deploy commands by script.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Functional]]></title>
-    <link href="http://hanscholem.github.io/blog/2014/08/29/functional/"/>
-    <updated>2014-08-29T08:01:44+08:00</updated>
-    <id>http://hanscholem.github.io/blog/2014/08/29/functional</id>
-    <content type="html"><![CDATA[<h3>Memo</h3>
-
-<ul>
-<li>Now I can post blog on both computers.</li>
-<li>I&rsquo;m green to git.</li>
-<li>Is it really necessary write a blog completely in English? As a practice.</li>
 </ul>
 
 ]]></content>
