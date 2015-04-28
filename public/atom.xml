@@ -4,7 +4,7 @@
   <title><![CDATA[門外Hans日誌2]]></title>
   <link href="http://hanscholem.github.io/atom.xml" rel="self"/>
   <link href="http://hanscholem.github.io/"/>
-  <updated>2015-04-28T08:29:31+08:00</updated>
+  <updated>2015-04-28T08:30:58+08:00</updated>
   <id>http://hanscholem.github.io/</id>
   <author>
     <name><![CDATA[Hans Chiang]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Mind Over Matter]]></title>
+    <link href="http://hanscholem.github.io/blog/2015/04/23/mind-over-matter/"/>
+    <updated>2015-04-23T09:06:12+08:00</updated>
+    <id>http://hanscholem.github.io/blog/2015/04/23/mind-over-matter</id>
+    <content type="html"><![CDATA[<p>上星期的每日一blog持續了五天就中斷了，比起一些一直持續寫到今天的朋友是有點鳥。上星期做了五天，有點絞盡腦汁的狀況，有點佩服那些以文字為生的人，我發現我隨便撇兩句可以，這樣天天寫一堆也不知道是不是垃圾的東西還是有點痛苦的。但似乎就是要這樣磨練一下自己。之前有篇心得文被編輯之後似乎變得清楚許多，但我似乎還是偏好這樣一口氣把文字打一大串出來，缺點是組織很差。</p>
+
+<p>對哲學或者思想一無所知，但是已經知道不該亂使用一些我其實並不清楚的名詞，譬如「唯心」，「唯物」，「左派」，「右派」，通常我大概不會使用這些詞彙，因為我真的沒有研究，有時會覺得好像很難表達，但好處是可以避免自己胡說八道還自己為有道理。現在好像活得沒有什麼中心思想，善惡之類的判斷也比較緩慢，因為我發現在短時間內做道德判斷時常會出現可怕的錯誤。</p>
+
+<p>亂七八糟的一些想法，就這樣放著？</p>
+
+<p>濱海的城市
+嶄新的殖民地
+古老的人</p>
+
+<p>野蟑螂
+無人居住的宮殿</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[20150422改為備份用]]></title>
@@ -926,18 +946,6 @@ $$</p>
     <id>http://hanscholem.github.io/blog/2014/08/29/mac-script-test</id>
     <content type="html"><![CDATA[<ul>
 <li>Test script pulled from git.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Script Test]]></title>
-    <link href="http://hanscholem.github.io/blog/2014/08/29/script-test/"/>
-    <updated>2014-08-29T11:26:30+08:00</updated>
-    <id>http://hanscholem.github.io/blog/2014/08/29/script-test</id>
-    <content type="html"><![CDATA[<ul>
-<li>Test deploy commands by script.</li>
 </ul>
 
 ]]></content>
