@@ -4,7 +4,7 @@
   <title><![CDATA[門外Hans日誌2]]></title>
   <link href="http://hanscholem.github.io/atom.xml" rel="self"/>
   <link href="http://hanscholem.github.io/"/>
-  <updated>2015-05-03T00:51:20+08:00</updated>
+  <updated>2015-05-03T00:53:51+08:00</updated>
   <id>http://hanscholem.github.io/</id>
   <author>
     <name><![CDATA[Hans Chiang]]></name>
@@ -18,7 +18,7 @@
     <link href="http://hanscholem.github.io/blog/2015/05/02/20150502/"/>
     <updated>2015-05-02T22:36:21+08:00</updated>
     <id>http://hanscholem.github.io/blog/2015/05/02/20150502</id>
-    <content type="html"><![CDATA[<h2>隨意札記</h2>
+    <content type="html"><![CDATA[<h3>隨意札記</h3>
 
 <ul>
 <li>不是懂得寫長篇大論的人，寫一點札記。</li>
@@ -31,7 +31,7 @@
 </ul>
 
 
-<h2>待改進</h2>
+<h3>待改進</h3>
 
 <ul>
 <li>執行力</li>
