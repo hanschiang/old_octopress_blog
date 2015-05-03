@@ -4,12 +4,14 @@ title: "20150503"
 date: 2015-05-03 00:58:00 +0800
 comments: true
 categories: 
-published: false
+published: true
 ---
 
 ### 隨意札記
 
-- 「我認識的一些很厲害的人，躺著也月入一二十。都是一些生活很嚴謹的人，路過的人的衣著細節他都知道。」
+- 一個認識的長輩突然去世。很突然。
+- 「我認識的一些很厲害的人，躺著也月入一二十。都是一些生活很嚴謹的人，路過的人的衣著細節他都知道。」～閒談雜記。
+- 「雪隧的開通還是給宜蘭帶來了繁榮。只是有些人賺了一票，有些人沒賺到。」～閒談雜記。
 
 
 ### 摘要
@@ -17,12 +19,12 @@ published: false
 - 今天的主要閱讀，登高四書的《互聯網世界觀》。
 
 
-
 ### 待改進
+
+- 時常缺乏耐性。
+
 
 ### 工具
 
-- Brandon Mathis 講 Octopress 3
-
-https://www.youtube.com/watch?v=X5sJIL-nOhg#t=11680
+- [Brandon Mathis 在 Jekyllconf 2015 講 Octopress 3](https://www.youtube.com/watch?v=X5sJIL-nOhg#t=11735)
 
