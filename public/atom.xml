@@ -4,7 +4,7 @@
   <title><![CDATA[門外Hans日誌2]]></title>
   <link href="http://hanscholem.github.io/atom.xml" rel="self"/>
   <link href="http://hanscholem.github.io/"/>
-  <updated>2015-05-03T23:26:43+08:00</updated>
+  <updated>2015-05-03T23:58:31+08:00</updated>
   <id>http://hanscholem.github.io/</id>
   <author>
     <name><![CDATA[Hans Chiang]]></name>
@@ -60,9 +60,9 @@
 </span><span class='line'>syntax on
 </span><span class='line'>filetype plugin indent on
 </span><span class='line'>
-</span><span class='line'>autocmd VimEnter * NERDTree
-</span><span class='line'>let NERDTreeShowHidden=1
-</span><span class='line'>autocmd VimEnter * wincmd p</span></code></pre></td></tr></table></div></figure>
+</span><span class='line'>autocmd VimEnter * NERDTree  # Vim 打開時同時打開 NERDTree
+</span><span class='line'>let NERDTreeShowHidden=1     # NERDTree 裡顯示隱藏的檔案
+</span><span class='line'>autocmd VimEnter * wincmd p  # 進 Vim 時游標移到開啟的檔案的那一欄</span></code></pre></td></tr></table></div></figure>
 
 
 
