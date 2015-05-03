@@ -9,8 +9,19 @@ published: false
 
 ### 隨意札記
 
+- 「我認識的一些很厲害的人，躺著也月入一二十。都是一些生活很嚴謹的人，路過的人的衣著細節他都知道。」
+
+
 ### 摘要
+
+
+
 
 ### 待改進
 
 ### 工具
+
+- Brandon Mathis 講 Octopress 3
+
+https://www.youtube.com/watch?v=X5sJIL-nOhg#t=11680
+
