@@ -4,7 +4,7 @@ title: "20150503 Sun"
 date: 2015-05-03 00:58:00 +0800
 comments: true
 categories: 
-published: false
+published: true
 ---
 
 ### 隨意札記
@@ -26,5 +26,17 @@ published: false
 
 ### 工具
 
-- [Brandon Mathis 在 Jekyllconf 2015 講 Octopress 3](https://www.youtube.com/watch?v=X5sJIL-nOhg#t=11735)
+- [Brandon Mathis 在 Jekyllconf 2015 講 Octopress 3](https://www.youtube.com/watch?v=X5sJIL-nOhg#t=11735)，看一看覺得可能暫時還是用 Octopress 2 吧。目前好好的每天寫點東西比較重要。
+
+- Vim 裝了 NERDTree 這個 Plugin ，修改 vimrc 。
+
+```
+execute pathogen#infect()
+syntax on
+filetype plugin indent on
+
+autocmd VimEnter * NERDTree
+let NERDTreeShowHidden=1
+autocmd VimEnter * wincmd p
+```
 
