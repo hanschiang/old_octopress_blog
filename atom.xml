@@ -4,7 +4,7 @@
   <title><![CDATA[門外Hans日誌2]]></title>
   <link href="http://hanscholem.github.io/atom.xml" rel="self"/>
   <link href="http://hanscholem.github.io/"/>
-  <updated>2015-05-03T23:58:31+08:00</updated>
+  <updated>2015-05-04T00:00:48+08:00</updated>
   <id>http://hanscholem.github.io/</id>
   <author>
     <name><![CDATA[Hans Chiang]]></name>
@@ -46,6 +46,7 @@
 <ul>
 <li><p><a href="https://www.youtube.com/watch?v=X5sJIL-nOhg#t=11735">Brandon Mathis 在 Jekyllconf 2015 講 Octopress 3</a>，看一看覺得可能暫時還是用 Octopress 2 吧。目前好好的每天寫點東西比較重要。</p></li>
 <li><p>Vim 裝了 NERDTree 這個 Plugin ，修改 vimrc 。</p></li>
+<li><a href="https://github.com/scrooloose/nerdtree">NERD Tree 的 Github 頁面</a></li>
 </ul>
 
 
