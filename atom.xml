@@ -4,7 +4,7 @@
   <title><![CDATA[門外Hans日誌2]]></title>
   <link href="http://hanscholem.github.io/atom.xml" rel="self"/>
   <link href="http://hanscholem.github.io/"/>
-  <updated>2015-05-04T00:00:48+08:00</updated>
+  <updated>2015-05-04T00:01:57+08:00</updated>
   <id>http://hanscholem.github.io/</id>
   <author>
     <name><![CDATA[Hans Chiang]]></name>
@@ -46,7 +46,6 @@
 <ul>
 <li><p><a href="https://www.youtube.com/watch?v=X5sJIL-nOhg#t=11735">Brandon Mathis 在 Jekyllconf 2015 講 Octopress 3</a>，看一看覺得可能暫時還是用 Octopress 2 吧。目前好好的每天寫點東西比較重要。</p></li>
 <li><p>Vim 裝了 NERDTree 這個 Plugin ，修改 vimrc 。</p></li>
-<li><a href="https://github.com/scrooloose/nerdtree">NERD Tree 的 Github 頁面</a></li>
 </ul>
 
 
@@ -66,6 +65,9 @@
 </span><span class='line'>autocmd VimEnter * wincmd p  # 進 Vim 時游標移到開啟的檔案的那一欄</span></code></pre></td></tr></table></div></figure>
 
 
+<ul>
+<li><a href="https://github.com/scrooloose/nerdtree">NERD Tree 的 Github 頁面</a></li>
+</ul>
 
 ]]></content>
   </entry>
