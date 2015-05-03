@@ -29,7 +29,6 @@ published: true
 - [Brandon Mathis 在 Jekyllconf 2015 講 Octopress 3](https://www.youtube.com/watch?v=X5sJIL-nOhg#t=11735)，看一看覺得可能暫時還是用 Octopress 2 吧。目前好好的每天寫點東西比較重要。
 
 - Vim 裝了 NERDTree 這個 Plugin ，修改 vimrc 。
-- [NERD Tree 的 Github 頁面](https://github.com/scrooloose/nerdtree)
 
 ```
 execute pathogen#infect()
@@ -41,3 +40,4 @@ let NERDTreeShowHidden=1     # NERDTree 裡顯示隱藏的檔案
 autocmd VimEnter * wincmd p  # 進 Vim 時游標移到開啟的檔案的那一欄
 ```
 
+- [NERD Tree 的 Github 頁面](https://github.com/scrooloose/nerdtree)
