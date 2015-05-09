@@ -4,7 +4,7 @@
   <title><![CDATA[門外Hans日誌2]]></title>
   <link href="http://hanscholem.github.io/atom.xml" rel="self"/>
   <link href="http://hanscholem.github.io/"/>
-  <updated>2015-05-09T17:59:49+08:00</updated>
+  <updated>2015-05-10T00:13:46+08:00</updated>
   <id>http://hanscholem.github.io/</id>
   <author>
     <name><![CDATA[Hans Chiang]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[20150508]]></title>
+    <link href="http://hanscholem.github.io/blog/2015/05/08/20150508/"/>
+    <updated>2015-05-08T09:15:11+08:00</updated>
+    <id>http://hanscholem.github.io/blog/2015/05/08/20150508</id>
+    <content type="html"><![CDATA[<ul>
+<li>看午場電影，《深夜食堂》。</li>
+<li>杏子日式豬排午餐。</li>
+<li>里山咖啡。《政治最前線》。</li>
+<li>隨身筆記的方格紙。</li>
+<li>發福廚房（美式漢堡）。</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[20150507]]></title>
@@ -549,95 +565,6 @@
 <li>擎天巨人貼永生贈禮然後犧牲。</li>
 <li>接下來要怎麼玩？</li>
 </ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[KTK Cheaper Deck]]></title>
-    <link href="http://hanscholem.github.io/blog/2014/09/10/ktk-cheaper-deck/"/>
-    <updated>2014-09-10T15:47:56+08:00</updated>
-    <id>http://hanscholem.github.io/blog/2014/09/10/ktk-cheaper-deck</id>
-    <content type="html"><![CDATA[<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-<span class='line-number'>7</span>
-<span class='line-number'>8</span>
-<span class='line-number'>9</span>
-<span class='line-number'>10</span>
-<span class='line-number'>11</span>
-<span class='line-number'>12</span>
-<span class='line-number'>13</span>
-<span class='line-number'>14</span>
-<span class='line-number'>15</span>
-<span class='line-number'>16</span>
-<span class='line-number'>17</span>
-<span class='line-number'>18</span>
-<span class='line-number'>19</span>
-<span class='line-number'>20</span>
-<span class='line-number'>21</span>
-<span class='line-number'>22</span>
-<span class='line-number'>23</span>
-<span class='line-number'>24</span>
-<span class='line-number'>25</span>
-<span class='line-number'>26</span>
-<span class='line-number'>27</span>
-<span class='line-number'>28</span>
-<span class='line-number'>29</span>
-<span class='line-number'>30</span>
-<span class='line-number'>31</span>
-<span class='line-number'>32</span>
-<span class='line-number'>33</span>
-<span class='line-number'>34</span>
-<span class='line-number'>35</span>
-<span class='line-number'>36</span>
-<span class='line-number'>37</span>
-<span class='line-number'>38</span>
-<span class='line-number'>39</span>
-<span class='line-number'>40</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>Opulent Palace     GUB 躺地
-</span><span class='line'>Frontier Bivouac   GUR 躺地
-</span><span class='line'>Dismal Backwater   UB  躺地
-</span><span class='line'>Jungle Hollow      GB  躺地
-</span><span class='line'>Thornwood Falls    GU  躺地
-</span><span class='line'>Swiftwater Cliffs  RU  躺地
-</span><span class='line'>Rugged Highlands   GR  躺地
-</span><span class='line'>
-</span><span class='line'>Forest             G   基本地
-</span><span class='line'>Mountain           R   基本地
-</span><span class='line'>Island             U   基本地
-</span><span class='line'>
-</span><span class='line'>地牌顏色比例：
-</span><span class='line'>G /23
-</span><span class='line'>U /23
-</span><span class='line'>B /23
-</span><span class='line'>R /23
-</span><span class='line'>
-</span><span class='line'>
-</span><span class='line'>基本想法：藍綠底，紅黑輔
-</span><span class='line'>
-</span><span class='line'>Spellheart Chimera    堆墳主題，墳場的瞬間和巫術咒語會變成他的力量
-</span><span class='line'>
-</span><span class='line'>Prophet of Kruphix    每個回合重置生物和地，生物可以閃現施放
-</span><span class='line'>Savage Knuckleblade   類似古靈精怪？
-</span><span class='line'>
-</span><span class='line'>Golden Hind           2/1，mana頭
-</span><span class='line'>Elvish Mystic         mana頭
-</span><span class='line'>
-</span><span class='line'>Voyaging Satyr        讓躺地站起來
-</span><span class='line'>Kiora's Follower      讓永久物站起來
-</span><span class='line'>Satyr Hedonist        內建紅祭禮
-</span><span class='line'>
-</span><span class='line'>Karametra's Favor     調色靈氣
-</span><span class='line'>Mortal's Resolve      +1/+1, 不滅到回合結束
-</span><span class='line'>
-</span><span class='line'>Satyr Wayfinder       濾牌，找地，填墳
-</span><span class='line'>Kruphix's Insight     濾牌，找結界，填墳
-</span><span class='line'>Commune with the Gods 濾牌，生物或結界，填墳
-</span><span class='line'>Font of Fertility     找地</span></code></pre></td></tr></table></div></figure>
 
 ]]></content>
   </entry>
