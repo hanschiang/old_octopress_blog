@@ -35,9 +35,8 @@ execute pathogen#infect()
 syntax on
 filetype plugin indent on
 
-autocmd VimEnter * NERDTree  # Vim 打開時同時打開 NERDTree
-let NERDTreeShowHidden=1     # NERDTree 裡顯示隱藏的檔案
-autocmd VimEnter * wincmd p  # 進 Vim 時游標移到開啟的檔案的那一欄
+autocmd VimEnter * NERDTree
+let NERDTreeShowHidden=1
+autocmd VimEnter * wincmd p
 ```
 
-- [NERD Tree 的 Github 頁面](https://github.com/scrooloose/nerdtree)
