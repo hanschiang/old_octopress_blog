@@ -4,7 +4,7 @@
   <title><![CDATA[門外Hans日誌2]]></title>
   <link href="http://hanscholem.github.io/atom.xml" rel="self"/>
   <link href="http://hanscholem.github.io/"/>
-  <updated>2015-05-28T03:06:16+08:00</updated>
+  <updated>2015-05-28T03:15:20+08:00</updated>
   <id>http://hanscholem.github.io/</id>
   <author>
     <name><![CDATA[Hans Chiang]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[部落格同步測試5]]></title>
+    <link href="http://hanscholem.github.io/blog/2015/05/28/bu-luo-ge-tong-bu-ce-shi-5/"/>
+    <updated>2015-05-28T03:14:11+08:00</updated>
+    <id>http://hanscholem.github.io/blog/2015/05/28/bu-luo-ge-tong-bu-ce-shi-5</id>
+    <content type="html"><![CDATA[<h3>圖片測試2</h3>
+
+<p>圖片測試：</p>
+
+<p><img src="https://c2.staticflickr.com/4/3922/14440553019_53a80f10d5.jpg" alt="測試圖片" /></p>
+
+<h3>Markdown</h3>
+
+<ul>
+<li>我想應該是snippet沒辦法同步過去？</li>
+<li>試試看如果只有文字和圖片有沒有辦法同步到blogger。</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[部落格同步測試4]]></title>
@@ -524,18 +545,6 @@
 <li>項目符號範例2。</li>
 <li>項目符號範例3。</li>
 </ol>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[20141024]]></title>
-    <link href="http://hanscholem.github.io/blog/2014/10/24/20141024/"/>
-    <updated>2014-10-24T16:54:42+08:00</updated>
-    <id>http://hanscholem.github.io/blog/2014/10/24/20141024</id>
-    <content type="html"><![CDATA[<ul>
-<li>需要振作起來。</li>
-</ul>
 
 ]]></content>
   </entry>
