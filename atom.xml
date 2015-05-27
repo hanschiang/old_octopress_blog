@@ -4,7 +4,7 @@
   <title><![CDATA[門外Hans日誌2]]></title>
   <link href="http://hanscholem.github.io/atom.xml" rel="self"/>
   <link href="http://hanscholem.github.io/"/>
-  <updated>2015-05-28T02:51:45+08:00</updated>
+  <updated>2015-05-28T03:04:04+08:00</updated>
   <id>http://hanscholem.github.io/</id>
   <author>
     <name><![CDATA[Hans Chiang]]></name>
@@ -12,6 +12,61 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[部落格同步測試3]]></title>
+    <link href="http://hanscholem.github.io/blog/2015/05/28/bu-luo-ge-tong-bu-ce-shi-3/"/>
+    <updated>2015-05-28T02:55:23+08:00</updated>
+    <id>http://hanscholem.github.io/blog/2015/05/28/bu-luo-ge-tong-bu-ce-shi-3</id>
+    <content type="html"><![CDATA[<h3>圖片測試</h3>
+
+<ul>
+<li>基本上剛剛測試過markdown。竟然算是還蠻好地同步過去了。</li>
+<li>接下來測試貼圖和snippet。其實我很少用到snippet就是了，畢竟不是本業寫程式的。</li>
+</ul>
+
+
+<p>圖片測試：</p>
+
+<p><img src="https://c2.staticflickr.com/4/3922/14440553019_53a80f10d5.jpg" alt="測試圖片" /></p>
+
+<h3>Snippet測試</h3>
+
+<p>很老套地貼一下費布那西數列：</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>r = raw_input("N=?")
+</span><span class='line'>a = int(r)
+</span><span class='line'>
+</span><span class='line'>def f(n): # This function tells nth Fibonacci number
+</span><span class='line'>    if n == 1:
+</span><span class='line'>        return 0
+</span><span class='line'>
+</span><span class='line'>    elif n == 2:
+</span><span class='line'>         return 1
+</span><span class='line'>
+</span><span class='line'>    else:
+</span><span class='line'>        return f(n-1) + f(n-2)
+</span><span class='line'>
+</span><span class='line'>print f(a)</span></code></pre></td></tr></table></div></figure>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Blogsync Test 2]]></title>
@@ -520,47 +575,6 @@
 <p>以上只是個喜歡組fun deck的人的心得，請大家不吝批評指教。</p>
 
 <p>關於預算的問題，我至今組過最便宜的deck是80NTD，全部從卡店的卡堆挖，C卡三張十塊，有些U卡一張五塊，地牌跟店家借。對手常常一張好一點的非基本地就比我的整付套牌貴。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Fb帳號分隔註記]]></title>
-    <link href="http://hanscholem.github.io/blog/2014/09/21/fbzhang-hao-fen-ge-zhu-ji/"/>
-    <updated>2014-09-21T21:55:16+08:00</updated>
-    <id>http://hanscholem.github.io/blog/2014/09/21/fbzhang-hao-fen-ge-zhu-ji</id>
-    <content type="html"><![CDATA[<h3>起因：無節制的亂加好友</h3>
-
-<ul>
-<li>從國小同學，國中同學，高中同學，大學同學，上班同事，幾乎覺得還有印象就加了。</li>
-<li>又一直很懶得整理名單。</li>
-</ul>
-
-
-<h3>困擾：自己洗板覺得會造成別人的困擾</h3>
-
-<ul>
-<li>很喜歡轉錄文章，又時常po文抱怨或者寫一些自己寫爽的東西。</li>
-<li>不只一次有朋友反應我應該注意不要隨便po文（抱怨事情），說者無意聽者有心，我想同理於轉錄文吧。</li>
-</ul>
-
-
-<h3>失敗過的處理方式：節制自己發文</h3>
-
-<ul>
-<li>節制這個詞跟忍耐幾乎是等義，而一般人忍耐久了通常都會鬆掉。</li>
-</ul>
-
-
-<h3>打算嘗試的處理方式：另開一個po文或轉文用的fb帳號</h3>
-
-<ul>
-<li>就是字面上的，舊的帳號就變成收看用的吧，基本上不po文，不轉錄。</li>
-<li>新開一個專門po文與轉錄文用的帳號，其實也是變相的雲端儲存。</li>
-<li>想follow的自己去<a href="https://www.facebook.com/Hans.EBC">follow</a>。這樣被我洗版也是follower歡喜甘願，我也可以少一點擔心。</li>
-<li>不過新的帳號既然是個公開的帳號，基本上就不會去加好友了（舊帳號聯誼化？）。</li>
-<li>其實我也覺得這招有點鳥，總之試試看吧。</li>
-</ul>
-
 ]]></content>
   </entry>
   
