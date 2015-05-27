@@ -1,0 +1,12 @@
+---
+layout: post
+title: "blogsync"
+date: 2015-05-28 02:44:40 +0800
+comments: true
+categories: 
+---
+
+使用IFTTT裡的RSS來同步到blogger。
+
+好懶，什麼都用同步的。
+
