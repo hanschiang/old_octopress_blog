@@ -4,7 +4,7 @@
   <title><![CDATA[門外Hans日誌2]]></title>
   <link href="http://hanscholem.github.io/atom.xml" rel="self"/>
   <link href="http://hanscholem.github.io/"/>
-  <updated>2015-05-28T02:46:39+08:00</updated>
+  <updated>2015-05-28T02:51:45+08:00</updated>
   <id>http://hanscholem.github.io/</id>
   <author>
     <name><![CDATA[Hans Chiang]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Blogsync Test 2]]></title>
+    <link href="http://hanscholem.github.io/blog/2015/05/28/blogsync-test-2/"/>
+    <updated>2015-05-28T02:49:30+08:00</updated>
+    <id>http://hanscholem.github.io/blog/2015/05/28/blogsync-test-2</id>
+    <content type="html"><![CDATA[<h3>同步測試2</h3>
+
+<ol>
+<li>修改sync到blogger時的標籤。</li>
+<li>測試markdown同步到blogger的狀況。</li>
+<li>測試項目符號（1. 2. 3.）</li>
+</ol>
+
+
+<h3>同步測試</h3>
+
+<ul>
+<li>markdown語法同步到blogger會是什麼狀況？</li>
+<li>我猜會是純文字。</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Blogsync]]></title>
@@ -535,27 +559,6 @@
 <li>想follow的自己去<a href="https://www.facebook.com/Hans.EBC">follow</a>。這樣被我洗版也是follower歡喜甘願，我也可以少一點擔心。</li>
 <li>不過新的帳號既然是個公開的帳號，基本上就不會去加好友了（舊帳號聯誼化？）。</li>
 <li>其實我也覺得這招有點鳥，總之試試看吧。</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Fun Deck 主題思考04 忒特高僧]]></title>
-    <link href="http://hanscholem.github.io/blog/2014/09/20/fun-deck-zhu-ti-si-kao-04-te-te-gao-seng/"/>
-    <updated>2014-09-20T12:33:25+08:00</updated>
-    <id>http://hanscholem.github.io/blog/2014/09/20/fun-deck-zhu-ti-si-kao-04-te-te-gao-seng</id>
-    <content type="html"><![CDATA[<h3>主題牌張</h3>
-
-<ul>
-<li>厄芳拉的啟蒙 ＋ 忒特摩斯高階僧侶</li>
-</ul>
-
-
-<h3>想法</h3>
-
-<ul>
-<li>在忒特摩斯高階僧侶上貼厄芳拉的啟蒙觸發勇行，挖小生物回場上時可將厄芳拉的啟蒙回手。比較容易重複使用。</li>
 </ul>
 
 ]]></content>
