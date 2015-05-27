@@ -4,7 +4,7 @@
   <title><![CDATA[門外Hans日誌2]]></title>
   <link href="http://hanscholem.github.io/atom.xml" rel="self"/>
   <link href="http://hanscholem.github.io/"/>
-  <updated>2015-05-28T03:22:03+08:00</updated>
+  <updated>2015-05-28T03:27:41+08:00</updated>
   <id>http://hanscholem.github.io/</id>
   <author>
     <name><![CDATA[Hans Chiang]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[結論]]></title>
+    <link href="http://hanscholem.github.io/blog/2015/05/28/jie-lun/"/>
+    <updated>2015-05-28T03:22:42+08:00</updated>
+    <id>http://hanscholem.github.io/blog/2015/05/28/jie-lun</id>
+    <content type="html"><![CDATA[<h3>Markdown的一些簡單的項目符號可以確實同步</h3>
+
+<ol>
+<li>譬如數字條列項目。</li>
+<li>還有原點條列項目。</li>
+</ol>
+
+
+<h3>圖片可以確實同步</h3>
+
+<ul>
+<li>使用flickr上的相簿。</li>
+</ul>
+
+
+<p><img src="https://c4.staticflickr.com/4/3105/2575267987_2bccdce883.jpg" alt="大學末期做的瓦愣紙人偶" /></p>
+
+<ul>
+<li>我猜連結也可以，應該是一般的html的部份都可以好好同步過去。</li>
+<li>直接貼連結。<a href="http://coastpatrol.blogspot.tw/">http://coastpatrol.blogspot.tw/</a></li>
+<li>測試把文字加上連結，還是連結到<a href="http://coastpatrol.blogspot.tw/">岸巡</a>。</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[部落格同步測試5]]></title>
@@ -499,53 +530,6 @@
     <content type="html"><![CDATA[<p>20150422，想要繼續使用octopress，但目前可能只是作為備份站使用。</p>
 
 <p>主站在<a href="http://evilchiang.blogspot.tw/">http://evilchiang.blogspot.tw/</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Markdown Example]]></title>
-    <link href="http://hanscholem.github.io/blog/2014/10/26/markdown-example/"/>
-    <updated>2014-10-26T09:42:19+08:00</updated>
-    <id>http://hanscholem.github.io/blog/2014/10/26/markdown-example</id>
-    <content type="html"><![CDATA[<ul>
-<li>條列範例。</li>
-<li>條列範例2。</li>
-<li>條列範例3。</li>
-</ul>
-
-
-<p>　　打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章打個文章。</p>
-
-<blockquote><p>這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用這是引用。</p></blockquote>
-
-<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-<span class='line-number'>7</span>
-<span class='line-number'>8</span>
-<span class='line-number'>9</span>
-<span class='line-number'>10</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>這是code snippet用（純文字狀態），
-</span><span class='line'>打什麼出現什麼。123123481740-9870897)
-</span><span class='line'>(&^)*&%)*&^%)_(^)_*(@&_)(*&@_)(*^@
-</span><span class='line'>_()*^)_@(*&^jdiojidjifjdp-sjdf;smdf;
-</span><span class='line'>dfdfdfdfd
-</span><span class='line'>fdsfsdfsd
-</span><span class='line'>23453t4fg345h
-</span><span class='line'>45e6j
-</span><span class='line'>67j65jr67jr57jr5e7j
-</span><span class='line'>je5j76</span></code></pre></td></tr></table></div></figure>
-
-
-<ol>
-<li>項目符號範例。</li>
-<li>項目符號範例2。</li>
-<li>項目符號範例3。</li>
-</ol>
-
 ]]></content>
   </entry>
   
