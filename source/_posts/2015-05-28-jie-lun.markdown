@@ -1,0 +1,23 @@
+---
+layout: post
+title: "結論"
+date: 2015-05-28 03:22:42 +0800
+comments: true
+categories: 
+---
+
+### Markdown的一些簡單的項目符號可以確實同步
+
+1. 譬如數字條列項目。
+2. 還有原點條列項目。
+
+
+### 圖片可以確實同步
+
+- 使用flickr上的相簿。
+
+![大學末期做的瓦愣紙人偶](https://c4.staticflickr.com/4/3105/2575267987_2bccdce883.jpg)
+
+- 我猜連結也可以，應該是一般的html的部份都可以好好同步過去。
+- 直接貼連結。http://coastpatrol.blogspot.tw/
+- 測試把文字加上連結，還是連結到[岸巡](http://coastpatrol.blogspot.tw/)。
