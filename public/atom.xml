@@ -4,7 +4,7 @@
   <title><![CDATA[門外Hans日誌2]]></title>
   <link href="http://hanscholem.github.io/atom.xml" rel="self"/>
   <link href="http://hanscholem.github.io/"/>
-  <updated>2015-05-28T03:27:41+08:00</updated>
+  <updated>2015-06-03T07:58:59+08:00</updated>
   <id>http://hanscholem.github.io/</id>
   <author>
     <name><![CDATA[Hans Chiang]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[2015 Half]]></title>
+    <link href="http://hanscholem.github.io/blog/2015/06/02/2015-half/"/>
+    <updated>2015-06-02T08:30:39+08:00</updated>
+    <id>http://hanscholem.github.io/blog/2015/06/02/2015-half</id>
+    <content type="html"><![CDATA[<p>2015上半年最後一個月。好像該來檢視一下這半年做了些什麼。</p>
+
+<p>執行力還是很缺乏。下半年可能得加油一下。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[結論]]></title>
@@ -519,17 +530,6 @@
 <li>無人居住的宮殿</li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[20150422改為備份用]]></title>
-    <link href="http://hanscholem.github.io/blog/2015/04/22/20150422gai-wei-bei-fen-yong/"/>
-    <updated>2015-04-22T12:20:04+08:00</updated>
-    <id>http://hanscholem.github.io/blog/2015/04/22/20150422gai-wei-bei-fen-yong</id>
-    <content type="html"><![CDATA[<p>20150422，想要繼續使用octopress，但目前可能只是作為備份站使用。</p>
-
-<p>主站在<a href="http://evilchiang.blogspot.tw/">http://evilchiang.blogspot.tw/</a></p>
 ]]></content>
   </entry>
   
