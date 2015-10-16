@@ -4,7 +4,7 @@
   <title><![CDATA[門外Hans日誌2]]></title>
   <link href="http://hanscholem.github.io/atom.xml" rel="self"/>
   <link href="http://hanscholem.github.io/"/>
-  <updated>2015-08-15T11:36:19+08:00</updated>
+  <updated>2015-10-16T11:28:36+08:00</updated>
   <id>http://hanscholem.github.io/</id>
   <author>
     <name><![CDATA[Hans Chiang]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[本網誌不知道第幾次再開]]></title>
+    <link href="http://hanscholem.github.io/blog/2015/10/16/ben-wang-zhi-bu-zhi-dao-di-ji-ci-zai-kai/"/>
+    <updated>2015-10-16T11:22:29+08:00</updated>
+    <id>http://hanscholem.github.io/blog/2015/10/16/ben-wang-zhi-bu-zhi-dao-di-ji-ci-zai-kai</id>
+    <content type="html"><![CDATA[<p>最近因為 11 月要去上 xdite 開的<a href="http://www.growthschool.com/courses/rails_ecommerce">「 Rails 即戰力冬季班」</a>，所以又重新開始自學 Rails 101 （之前試過一兩次但是中途 debug 太煩半途而廢），這次因為有點壓力（學費已經繳了）所以逼自己好好把它做一次（預計要做三次），現在在 95% 的地方，最後的部分是 deploy 到 server 上，這段我真的不太懂，可能得去請教別人了。</p>
+
+<p>blogger 已經是有點雜亂的備份堆積物，所以想說學習筆記可能要分開放放在這邊（之前都是擺一些雜物，我好像都是這樣）。總之本網誌再開。話說 Octopress 好像出 3 了。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Magic]]></title>
@@ -481,45 +492,6 @@
 <li>雖然只是留個空白文。</li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[201504月底memo]]></title>
-    <link href="http://hanscholem.github.io/blog/2015/04/30/201504yue-di/"/>
-    <updated>2015-04-30T00:05:12+08:00</updated>
-    <id>http://hanscholem.github.io/blog/2015/04/30/201504yue-di</id>
-    <content type="html"><![CDATA[<h3>物質</h3>
-
-<ul>
-<li>存款：不多。</li>
-<li>身體狀況：缺乏運動，體力差。</li>
-<li>工具：東西太多，但缺乏收納整理。</li>
-</ul>
-
-
-<h3>精神</h3>
-
-<ul>
-<li>執行力有待加強。</li>
-<li>專注：無。</li>
-<li>休閒：大多是打發時間。</li>
-<li>志業：不明</li>
-<li>工作能力：基本電腦文書作業。</li>
-</ul>
-
-
-<h3>時間</h3>
-
-<ul>
-<li>日</li>
-<li>週</li>
-<li>月</li>
-<li>年</li>
-</ul>
-
-
-<p>2003到2014蹉跎十多年。</p>
 ]]></content>
   </entry>
   
