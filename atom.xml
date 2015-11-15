@@ -4,7 +4,7 @@
   <title><![CDATA[門外Hans日誌2]]></title>
   <link href="http://hanscholem.github.io/atom.xml" rel="self"/>
   <link href="http://hanscholem.github.io/"/>
-  <updated>2015-10-16T13:33:24+08:00</updated>
+  <updated>2015-11-15T20:44:55+08:00</updated>
   <id>http://hanscholem.github.io/</id>
   <author>
     <name><![CDATA[Hans Chiang]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[LEGO Sand]]></title>
+    <link href="http://hanscholem.github.io/blog/2015/11/15/lego-sand/"/>
+    <updated>2015-11-15T20:37:46+08:00</updated>
+    <id>http://hanscholem.github.io/blog/2015/11/15/lego-sand</id>
+    <content type="html"><![CDATA[<p>Video Test</p>
+
+<p><video width='' height='' preload='none' controls poster=''><source src='https://www.youtube.com/watch?v=lMnWPl4WYzU' ></video></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[本網誌不知道第幾次再開]]></title>
@@ -486,20 +497,6 @@
 <li>使用紙本隨身筆記做即時的記錄，札記，工作筆記，代辦事項等。</li>
 <li>今天也學HW使用vim來寫blog。拿vim只是拿來打打字真的很浪費的感覺。</li>
 <li>買書太多，多到看不完，收納也很麻煩。但還是一直買。</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[20150501]]></title>
-    <link href="http://hanscholem.github.io/blog/2015/05/01/20150501/"/>
-    <updated>2015-05-01T20:45:01+08:00</updated>
-    <id>http://hanscholem.github.io/blog/2015/05/01/20150501</id>
-    <content type="html"><![CDATA[<h3>總是要補一下破洞</h3>
-
-<ul>
-<li>雖然只是留個空白文。</li>
 </ul>
 
 ]]></content>
