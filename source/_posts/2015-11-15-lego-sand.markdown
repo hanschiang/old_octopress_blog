@@ -8,4 +8,4 @@ categories:
 
 Video Test
 
-{% video https://www.youtube.com/watch?v=lMnWPl4WYzU %}
+{% video https://www.youtube.com/watch?v=-rXCYJXCw4U %}
