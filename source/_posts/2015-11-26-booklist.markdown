@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-### xdite
+### from xdite
 連結內有坑，慎入慎入。https://www.facebook.com/xdite
 
 - [簡單思考：LINE前任CEO首度公開網路時代成功術](http://www.books.com.tw/products/0010694482)
@@ -16,7 +16,7 @@ categories:
 - [為什麼我們這樣生活，那樣工作？](http://www.books.com.tw/products/0010560033)
 
 
-### 蔡依橙
+### from 蔡依橙
 連結內有坑，慎入慎入。https://www.facebook.com/sillyduck.radiology
 
 - [太陽旗下的魔法學校：日治台灣新式教育的誕生](http://www.books.com.tw/products/0010566517)
