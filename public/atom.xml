@@ -4,7 +4,7 @@
   <title><![CDATA[門外Hans日誌2]]></title>
   <link href="http://hanscholem.github.io/atom.xml" rel="self"/>
   <link href="http://hanscholem.github.io/"/>
-  <updated>2015-11-15T20:49:17+08:00</updated>
+  <updated>2015-11-26T18:53:00+08:00</updated>
   <id>http://hanscholem.github.io/</id>
   <author>
     <name><![CDATA[Hans Chiang]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hans書單]]></title>
+    <link href="http://hanscholem.github.io/blog/2015/11/26/booklist/"/>
+    <updated>2015-11-26T17:42:09+08:00</updated>
+    <id>http://hanscholem.github.io/blog/2015/11/26/booklist</id>
+    <content type="html"><![CDATA[<h3><a href="https://www.facebook.com/xdite">xdite</a></h3>
+
+<ul>
+<li><a href="http://www.books.com.tw/products/0010694482">簡單思考：LINE前任CEO首度公開網路時代成功術</a></li>
+<li><a href="http://www.books.com.tw/products/0010596649">料理好吃還不夠，這樣開店才會賺</a></li>
+<li><a href="http://www.books.com.tw/products/0010683077">一杯咖啡的商業啟示</a></li>
+<li><a href="http://www.books.com.tw/products/0010578004">最極致的服務最賺錢</a></li>
+<li><a href="http://www.books.com.tw/products/0010560033">為什麼我們這樣生活，那樣工作？</a></li>
+</ul>
+
+
+<h3><a href="https://www.facebook.com/sillyduck.radiology">蔡依橙</a></h3>
+
+<ul>
+<li><a href="http://www.books.com.tw/products/0010566517">太陽旗下的魔法學校：日治台灣新式教育的誕生</a></li>
+</ul>
+
+
+<h3>其他</h3>
+
+<ul>
+<li><a href="http://www.books.com.tw/products/0010687692">如果台灣的四周是海洋</a></li>
+<li><a href="http://www.books.com.tw/products/0010693602">旅行與讀書</a></li>
+<li><a href="http://www.books.com.tw/products/0010694076">人渣文本的36個幸福突圍指南</a></li>
+<li><a href="http://www.books.com.tw/products/0010693236">臺灣妖怪研究室報告</a></li>
+<li><a href="http://www.books.com.tw/products/0010695112">這才是真實的中國史：來自日本右翼史家的觀點</a></li>
+<li><a href="http://www.books.com.tw/products/0010663601">一切都是誘因的問題！：找對人、用對方法、做對事的關鍵思考</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[LEGO Sand]]></title>
@@ -458,44 +495,6 @@
 </span><span class='line'>autocmd VimEnter * wincmd p</span></code></pre></td></tr></table></div></figure>
 
 
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[20150502]]></title>
-    <link href="http://hanscholem.github.io/blog/2015/05/02/20150502/"/>
-    <updated>2015-05-02T22:36:21+08:00</updated>
-    <id>http://hanscholem.github.io/blog/2015/05/02/20150502</id>
-    <content type="html"><![CDATA[<h3>隨意札記</h3>
-
-<ul>
-<li>不是懂得寫長篇大論的人，寫一點札記。</li>
-<li>理論上應該要從昨天補起，但我想自由作業的好處就是可以不用理會這種完整性的問題。一代宗師裡面有句台詞：「大成若缺。」且讓我用來搪塞昨天又沒有寫blog吧。</li>
-<li>昨天開始振作，今天持續過得十分充實。</li>
-<li>權衡一些事情，選一些不見得想做但是做了也許比較好的事情。</li>
-<li>好的生活習慣，需要一點堅持。即使是這樣的胡言亂語，如果要每天寫，也是需要一點堅持。</li>
-<li>有種寫垃圾文的味道。</li>
-<li>我也不懂為何自己老是會想要重新開始寫blog。「想要讓別人了解自己？」我好像沒有這麼偉大的目標過。</li>
-</ul>
-
-
-<h3>待改進</h3>
-
-<ul>
-<li>執行力</li>
-<li>飲食與運動習慣</li>
-<li>讓自己不要被恐懼或生氣或任何種類的情緒影響自己的行為</li>
-</ul>
-
-
-<h3>工具</h3>
-
-<ul>
-<li>使用紙本隨身筆記做即時的記錄，札記，工作筆記，代辦事項等。</li>
-<li>今天也學HW使用vim來寫blog。拿vim只是拿來打打字真的很浪費的感覺。</li>
-<li>買書太多，多到看不完，收納也很麻煩。但還是一直買。</li>
-</ul>
 
 ]]></content>
   </entry>
